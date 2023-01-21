@@ -1,8 +1,6 @@
 ---
 title:  "Life With Alacrity"
 search: false
-categories: 
-  - Jekyll
 last_modified_at: 2016-10-19T08:06:00-05:00
 ---
 

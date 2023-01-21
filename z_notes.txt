@@ -1,0 +1,5 @@
+==> Blockers <==
+
+-> Resize Images
+-> 2016-04-25-Self-Sovereign Identity.md
+        =>  comments part
