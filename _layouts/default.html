@@ -17,6 +17,72 @@
   {% include head/custom.html %}
 </head>
 
+<style>
+  a {
+    text-decoration: none;
+  }
+
+  .sidebar {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  }
+
+  .author__bio {
+    font-size: 18px;
+  }
+
+  .archive__item-excerpt {
+    font-size: 14px !important;
+  }
+
+  .archive__item-title a {
+    color: #000 !important;
+  }
+
+  #article_card {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    padding: 0.7px 15px;
+    margin-bottom: 30px !important;
+    border-radius: 10px;
+  }
+
+  .page__content p {
+    font-size: 15px !important;
+  }
+
+  #article_card:hover {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+
+  .full {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    border-radius: 12px;
+    overflow: hidden;
+    object-fit: contain;
+    background-color: #fff;
+    /* background-image: url('/assets/images/self-soverreign.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+  }
+
+  .full img {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+</style>
+
 <body
   class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
   {% include_cached skip-links.html %}
