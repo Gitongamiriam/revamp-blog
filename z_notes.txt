@@ -8,3 +8,5 @@
 -> Missing links
         =>  2015-11-05-Collective Governance
         =>  2016-04-05-Defining Participatory Ecosystem
+
+-> How to embedd facebook text in Jekyll
