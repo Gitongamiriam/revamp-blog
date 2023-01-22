@@ -2240,3 +2240,13 @@ a.text-dark:focus {
     color: #fff;
     background-color: #645F88 !important;
 }
+
+/* 3rd css import */
+#u-photo_id { 
+    height: 350px;
+    width: 350px;
+}
+
+#u-photo_id img {
+    height: 100%;
+}
