@@ -1,35 +1,62 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
-        {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title }}
-          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
-        </a>
-        <ul class="visible-links">
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light bg-white sticky" data-offset="500">
+    <div class="container">
+      <a href="{{ '/' | relative_url }}" class="navbar-brand">
+        {{ site.masthead_title | default: site.title }}
+        {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+      </a>
+
+
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="navbar-collapse collapse" id="navbarContent">
+        <ul class="navbar-nav ml-auto">
           {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ link.url | relative_url }}" {% if link.description %}
+              title="{{ link.description }}" {% endif %}>{{ link.title }}</a>
+          </li>
           {%- endfor -%}
         </ul>
-        {% if site.search == true %}
-        <button class="search__toggle" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-          <i class="fas fa-search"></i>
-        </button>
-        {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+      </div>
+
+    </div>
+  </nav>
+
+
+</header>
+
+<div class="container">
+  <div class="page-banner home-banner">
+    <div class="row align-items-center flex-wrap-reverse h-100">
+      <div class="col-md-6 py-5">
+        <h1 class="mb-4">{{ author.name }}</h1>
+        <p>
+          {% if author.bio %}
+          {{ author.bio | markdownify }}
+          {% endif %}
+        </p>
+        
+        <div id="social_icons">
+          <a href=""><i class="fa-brands fa-facebook-f"></i></a>
+          <a href=""><i class="fa-brands fa-twitter"></i></a>
+          <a href=""><i class="fa-brands fa-instagram"></i></a>
+          <a href=""><i class="fa-brands fa-github"></i></a>
+          <a href=""><i class="fa-brands fa-linkedin"></i></a>
+        </div>
+      </div>
+      <div class="col-md-6 py-5">
+        <div class="img-fluid text-center">
+          {% if author.avatar %}
+          <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
+          {% endif %}
+        </div>
+      </div>
     </div>
   </div>
 </div>

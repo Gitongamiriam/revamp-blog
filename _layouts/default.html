@@ -2,15 +2,11 @@
 ---
 
 <!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.24.0 by Gitonga Miriam
-  Copyright 2013-2020 Gitonga Miriam - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
 <html lang="{{ site.locale | slice: 0,2 | default: " en" }}" class="no-js">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+<link rel="stylesheet" href="/assets/css/bootstrap.css">
 <link rel="stylesheet" href="/assets/css/styles.css">
+<link rel="stylesheet" href="/assets/css/theme.css">
 
 <head>
   {% include head.html %}
@@ -18,8 +14,14 @@
 </head>
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+  body {
+    font-family: 'Manrope', sans-serif !important;
+  }
+
   a {
-    text-decoration: none;
+    text-decoration: none !important;
   }
 
   .sidebar {
@@ -83,9 +85,7 @@
   }
 </style>
 
-<body
-  class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-  {% include_cached skip-links.html %}
+<body>
   {% include_cached masthead.html %}
 
   <div class="initial-content">

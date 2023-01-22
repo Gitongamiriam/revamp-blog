@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/privacy.jpeg"
+teaser                   : #"/assets/images/privacy.jpeg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christopher"
-  avatar           : "/assets/images/christopher.jpg"
-  bio              : "Blockchain & Decentralized Identity Architect <br> Internet Cryptography Pioneer <br> Co-author TLS Security Standard <br> Collaborative Tools & Patterns <br> <br> [@ChristopherA](https://twitter.com/ChristopherA)"
+  name             : "Christopher Allen"
+  avatar           : "/assets/images/chris.png"
+  bio              : "Blockchain & Decentralized Identity Architect. Internet Cryptography Pioneer. Co-author TLS Security Standard. Collaborative Tools & Patterns"
   email            :
   links:
     - label: "Email"
