@@ -6,17 +6,16 @@ gallery:
     alt: "Participatory"
 last_modified_at: 2016-04-05T08:23:07-07:00
 ---
+{% include gallery id="gallery" class="full" %}
 
-## Life With Alacrity
+## Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
+
+**Life With Alacrity**
+
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
 April 5 2016 - 600 Words
 by Christopher Allen
-
-
-{% include gallery id="gallery" class="full" %}
-
-
 
 Little Men Circle
 As part of being a member of the sustainable MBA community at Pinchot University, I have been trying to articulate what I like about the kinds of collaboration that are possible even inside a competitive industry. In our MBA program, we don't just teach about competitive strategy (using classic's like Porter's book), but we also teach about the nature of coopetition. These practices are more likely to lead to sustainable businesses (not only sustainable=green, but sustainable=enduring).
