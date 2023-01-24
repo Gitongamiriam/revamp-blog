@@ -397,7 +397,7 @@ button:focus {
 .pagination li a.current,
 .pagination li a.current.disabled {
     color: #fff;
-    background-color: #645F88 ;
+    background-color: #645F88;
 }
 
 /* 3rd css import */
@@ -409,6 +409,32 @@ button:focus {
 #u-photo_id img {
     height: 100%;
 }
+
+
+@media (max-width: 768px) {
+    #u-photo_id {
+        height: auto;
+        width: 100%;
+    }
+
+    #u-photo_id img {
+        height: 200px;
+        width: 200px;
+    }
+
+    #banner_text h1 {
+        font-size: 1.5rem;
+    }
+
+    #banner_text p {
+        font-size: 13px;
+    }
+
+    #social_icons {
+        width: 80% !important;
+    }
+}
+
 
 /* BEAUTIFUL BLOG */
 .latest_blog_area {
