@@ -386,6 +386,7 @@ button:focus {
     border: none !important;
     border-radius: 50% !important;
     padding: 10px 15px;
+    color: #000;
 }
 
 .pagination li a:hover {
