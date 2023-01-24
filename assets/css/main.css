@@ -564,7 +564,7 @@ button:focus {
 }
 
 .blog_info .post_tag a.active {
-    color: #ffba00;
+    color: #488ef3;
 }
 
 .blog_info .blog_meta li a {
@@ -585,7 +585,7 @@ button:focus {
 }
 
 .blog_info .blog_meta li a:hover {
-    color: #ffba00;
+    color: #488ef3;
 }
 
 .blog_post img {
@@ -644,7 +644,7 @@ button:focus {
 .blog_right_sidebar .widget_title {
     font-size: 18px;
     line-height: 25px;
-    background: #ffba00;
+    background: #488ef3;
     text-align: center;
     color: #fff;
     padding: 8px 0px;
@@ -661,7 +661,7 @@ button:focus {
     padding-left: 20px;
     border-radius: 45px;
     z-index: 0;
-    background: #ffba00;
+    background: #488ef3;
 }
 
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
@@ -747,7 +747,7 @@ button:focus {
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body h3:hover {
-    color: #ffba00;
+    color: #488ef3;
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body p {
@@ -781,11 +781,11 @@ button:focus {
 }
 
 .blog_right_sidebar .post_category_widget .cat-list li:hover {
-    border-color: #ffba00;
+    border-color: #488ef3;
 }
 
 .blog_right_sidebar .post_category_widget .cat-list li:hover a {
-    color: #ffba00;
+    color: #488ef3;
 }
 
 .blog_right_sidebar .newsletter_widget {
@@ -842,7 +842,7 @@ button:focus {
 }
 
 .blog_right_sidebar .newsletter_widget .bbtns {
-    background: #ffba00;
+    background: #488ef3;
     color: #fff;
     font-size: 12px;
     line-height: 38px;
@@ -872,7 +872,7 @@ button:focus {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-    background: #ffba00;
+    background: #488ef3;
     color: #fff;
 }
 
@@ -1077,4 +1077,264 @@ button:focus {
     .single-post-area .sidebar-widgets {
         padding-bottom: 0px;
     }
+}
+
+/* ===================== */
+/* footer */
+/* ===================== */
+
+.section_gap {
+    padding: 100px 0;
+}
+
+@media (max-width: 991px) {
+    .section_gap {
+        padding: 80px 0;
+    }
+}
+
+.section_gap_top_75 {
+    padding: 75px 0;
+}
+
+@media (max-width: 991px) {
+    .section_gap_top_75 {
+        padding: 70px 0;
+    }
+}
+
+.section_gap_75 {
+    padding: 75px 0;
+}
+
+@media (max-width: 991px) {
+    .section_gap_75 {
+        padding: 70px 0;
+    }
+}
+
+.section_gap_top {
+    padding-top: 100px;
+}
+
+@media (max-width: 991px) {
+    .section_gap_top {
+        padding-top: 80px;
+    }
+}
+
+.section_gap_bottom {
+    padding-bottom: 100px;
+}
+
+@media (max-width: 991px) {
+    .section_gap_bottom {
+        padding-bottom: 80px;
+    }
+}
+
+
+.footer-area {
+    padding-top: 100px;
+    color: #000;
+    position: relative;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.footer-area h6 {
+    color: #000;
+    margin-bottom: 25px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+@media (max-width: 767px) {
+    .footer-area h6 {
+        margin-bottom: 15px;
+    }
+}
+
+.copy-right-text i,
+.copy-right-text a {
+    color: #488ef3;
+}
+
+.instafeed {
+    margin: -5px;
+}
+
+.instafeed li {
+    overflow: hidden;
+    width: 25%;
+}
+
+.instafeed li img {
+    margin: 5px;
+}
+
+.footer-social a {
+    padding-right: 25px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.footer-social a:hover i {
+    color: #488ef3;
+}
+
+.footer-social i {
+    color: #5f5f5f;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+@media (max-width: 991px) {
+    .single-footer-widget {
+        margin-bottom: 40px;
+    }
+}
+
+.single-footer-widget .form-inline {
+    display: inline-block;
+    width: 100%;
+}
+
+.single-footer-widget input {
+    /* border: 1 */
+    width: 80% !important;
+    font-weight: 300;
+    background: #fff;
+    color: #777;
+    padding-left: 20px;
+    border-radius: 0;
+    font-size: 14px;
+}
+
+.single-footer-widget input:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.single-footer-widget input.placeholder {
+    color: #ccc;
+}
+
+.single-footer-widget input:-moz-placeholder {
+    color: #ccc;
+}
+
+.single-footer-widget input::-moz-placeholder {
+    color: #ccc;
+}
+
+.single-footer-widget input::-webkit-input-placeholder {
+    color: #ccc;
+}
+
+.single-footer-widget .bb-btn {
+    color: #fff;
+    font-weight: 300;
+    border-radius: 0;
+    z-index: 9999;
+    cursor: pointer;
+}
+
+.single-footer-widget .info {
+    position: absolute;
+    margin-top: 5%;
+    color: #fff;
+    font-size: 12px;
+}
+
+.single-footer-widget .info.valid {
+    color: green;
+}
+
+.single-footer-widget .info.error {
+    color: red;
+}
+
+.single-footer-widget .click-btn {
+    color: #fff;
+    border-radius: 0;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    padding: 6px 12px;
+    border: 0;
+    background-color: #488ef3;
+}
+
+.single-footer-widget .click-btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.single-footer-widget ::-moz-selection {
+    /* Code for Firefox */
+    background-color: #191919 !important;
+    color: #777777;
+}
+
+.single-footer-widget ::selection {
+    background-color: #191919 !important;
+    color: #777777;
+}
+
+.single-footer-widget ::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: #777777;
+    font-weight: 300;
+}
+
+.single-footer-widget :-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #777777;
+    opacity: 1;
+    font-weight: 300;
+}
+
+.single-footer-widget ::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #777777;
+    opacity: 1;
+    font-weight: 300;
+}
+
+.single-footer-widget :-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #777777;
+    font-weight: 300;
+}
+
+.single-footer-widget ::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #777777;
+    font-weight: 300;
+}
+
+.footer-text {
+    position: absolute;
+    bottom: 3% !important;
+
+}
+
+
+.footer-text a,
+.footer-text i {
+    color: #488ef3;
+}
+
+
+#footer_img {
+    height: 120px;
+    width: 120px;
+}
+
+#footer_img img {
+    height: 100%;
+    object-fit: cover;
 }
