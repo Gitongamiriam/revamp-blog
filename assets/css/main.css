@@ -243,7 +243,7 @@ button:focus {
     margin-top: 16px;
     margin-bottom: 5em;
     height: 320px;
-    background-color: #F6F5FC;
+    background-color: #f6f5fc75;
     color: #645F88;
     border-radius: 30px;
     z-index: 10;
@@ -415,6 +415,7 @@ button:focus {
     #u-photo_id {
         height: auto;
         width: 100%;
+        margin-bottom: 0% !important;
     }
 
     #u-photo_id img {
@@ -430,8 +431,13 @@ button:focus {
         font-size: 13px;
     }
 
-    #social_icons {
-        width: 80% !important;
+    #social_icons a {
+        height: 25px;
+        width: 25px;
+    }
+
+    #social_icons a i {
+        font-size: 13px;
     }
 }
 
