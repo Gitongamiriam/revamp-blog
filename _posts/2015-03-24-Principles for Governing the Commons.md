@@ -1,17 +1,14 @@
 ---
-title:  "10 Design Principles for Governing the Commons"
-search: false
-gallery:
-  - image_path: /assets/images/principlas.png
-    alt: "principlas"
-last_modified_at: 2015-03-24T08:20:55-07:00
+layout: post
+title:  Introduction to Group Works and the Group Pattern Language
+date:   2014-04-29 14:51:07 +0300
+image:  06.jpg
+tags:   Home
 ---
 
 In 2009, Elinor Ostrom received the Nobel Prize in Economics for her “analysis of economic governance, especially the commons”.
 Since then I&amp;#39;ve seen a number of different versions of her list of the 8 principles for effectively managing against the tragedy of the commons. However, I&amp;#39;ve found&amp;#0160;her original words — as well as many adaptions I&amp;#39;ve seen since — to be not very accessible. Also, since the original release of the list of 8 principles there has been some research resulting in updates and clarifications to her original list.
-      
-{% include gallery id="gallery" class="full" %}
-  
+
 
 **Life With Alacrity**
 

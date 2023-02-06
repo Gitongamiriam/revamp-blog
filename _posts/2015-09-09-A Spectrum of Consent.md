@@ -1,14 +1,10 @@
 ---
-title:  "A Spectrum of Consent"
-search: false
-gallery:
-  - image_path: /assets/images/spectrum.png
-    alt: "spectrum"
-last_modified_at: 2015-09-09T08:09:28-07:00
+layout: post
+title:  A Spectrum of Consent
+date:   2015-09-09 09:28-07 +0300
+image:  spectrum.png
+tags:   Home
 ---
-
-{% include gallery id="gallery" class="full" %}
-
 
 
 

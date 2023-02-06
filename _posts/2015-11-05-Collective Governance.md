@@ -1,13 +1,11 @@
 ---
-title:  "A Revised “Ostrom’s Design Principles for Collective Governance of the Commons"
-search: false
-gallery:
-  - image_path: /assets/images/Ostrom’s.png
-    alt: "Ostrom’s"
-last_modified_at: 2015-11-05T08:15:23-07:00
+layout: post
+title:  A Revised “Ostrom’s Design Principles for Collective Governance of the Commons
+date:   2015-11-05 08:15:23 +0300
+image:  Ostrom’s.png
+tags:   Home
 ---
 
-{% include gallery id="gallery" class="full" %}
 
 
 

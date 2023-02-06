@@ -1,7 +1,9 @@
 ---
-title:  "Mini Resume Card for Conference Season"
-search: false
-last_modified_at: 2015-03-22T08:23:55-07:00
+layout: post
+title:  Mini Resume Card for Conference Season
+date:   2015-03-22 08:23:55 +0300
+image:  02.jpg
+tags:   Home
 ---
 
 

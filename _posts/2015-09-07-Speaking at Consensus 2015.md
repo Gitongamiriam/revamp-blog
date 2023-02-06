@@ -1,13 +1,10 @@
 ---
-title:  "Speaking at Consensus 2015"
-search: false
-gallery:
-  - image_path: /assets/images/consensus.png
-    alt: "consensus"
-last_modified_at: 2015-09-07T08:23:54-07:00
+layout: post
+title:  Speaking at Consensus 2015
+date:   2015-09-07 23:54-07 +0300
+image:  02.jpg
+tags:   Home
 ---
-
-{% include gallery id="gallery" class="full" %}
 
 
 

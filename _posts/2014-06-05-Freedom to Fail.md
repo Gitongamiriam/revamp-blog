@@ -1,7 +1,9 @@
 ---
-title:  "Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”"
-search: false
-last_modified_at: 2014-06-05T08:12:35-07:00
+layout: post
+title:  Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend"
+date:   2014-06-05 12:35-07 +0300
+image:  04.jpg
+tags:   Home
 ---
 
 Post by Christopher Allen. original layout

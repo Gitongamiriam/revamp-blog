@@ -1,7 +1,9 @@
 ---
-title:  "Life With Alacrity"
-search: false
-last_modified_at: 2016-10-19T08:06:00-05:00
+layout: post
+title:  Life With Alacrity
+date:   2016-10-19 08:06:00 +0300
+image:  self-soverreign.jpeg
+tags:   Home
 ---
 
 
