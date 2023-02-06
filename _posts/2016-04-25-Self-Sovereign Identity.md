@@ -1,10 +1,9 @@
 ---
-title:  "The Path to Self-Sovereign Identity"
-search: false
-gallery:
-  - image_path: /assets/images/self-soverreign.jpeg
-    alt: "self-soverreign"
-last_modified_at: 2016-04-25T08:07:00-00:00
+layout: post
+title:  The Path to Self-Sovereign Identity
+date:   2016-04-25 08:07:00 +0300
+image:  self-soverreign.jpeg
+tags:   Resources
 ---
 
 

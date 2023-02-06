@@ -1,18 +1,15 @@
 ---
-title:  "Deep Context Shared Languages"
-search: false
-gallery:
-  - image_path: /assets/images/context.jpeg
-    alt: "context"
-last_modified_at: 2014-06-18T08:20:58-07:00
+layout: post
+title:  Deep Context Shared Languages
+date:   2014-06-18 08:20:58 +0300
+image:  context.jpeg
+tags:   Style
 ---
 
     
 If you consider yourself a futurist or an agent of change, you should read this article from The Atlantic &amp;quot;Shaka, When the Walls Fall&amp;quot;. Yes, it uses a Star Trek episode as an allegory, it is a bit confusing and has a lot of complexity and depth, but it is a good introduction to a topic I care about — Deep Context Shared Languages.
 I consider one of my missions in life to be to &amp;quot;create tools that allow people to communicate about complexity&amp;quot;.
 
-
-{% include gallery id="gallery" class="full" %}
 
 
 **Life With Alacrity**

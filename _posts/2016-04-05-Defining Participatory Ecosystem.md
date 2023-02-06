@@ -1,12 +1,11 @@
 ---
-title:  "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
-search: false
-gallery:
-  - image_path: /assets/images/Participatory.jpeg
-    alt: "Participatory"
-last_modified_at: 2016-04-05T08:23:07-07:00
+layout: post
+title:  Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
+date:   2016-04-05 08:23:07 +0300
+image:  Participatory.jpeg
+tags:   Resources
 ---
-{% include gallery id="gallery" class="full" %}
+
 
 ## Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
 
