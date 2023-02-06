@@ -3,7 +3,11 @@ layout: post
 title:  The Path to Self-Sovereign Identity
 date:   2016-04-25 08:07:00 +0300
 image:  self-soverreign.jpeg
+<<<<<<< HEAD
 tags:   Resources
+=======
+tags:   Home
+>>>>>>> gh-pages
 ---
 
 
@@ -12,11 +16,6 @@ A blog on social software, collaboration, trust, security, privacy, and internet
 The Path to Self-Sovereign Identity
 April 25 2016 - 4200 Words
 by Christopher Allen
-
-
-
-
-{% include gallery id="gallery" class="full" %}
 
 
 

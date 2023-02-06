@@ -3,7 +3,11 @@ layout: post
 title:  Deep Context Shared Languages
 date:   2014-06-18 08:20:58 +0300
 image:  context.jpeg
+<<<<<<< HEAD
 tags:   Style
+=======
+tags:   Home
+>>>>>>> gh-pages
 ---
 
     

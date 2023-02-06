@@ -1,0 +1,27 @@
+<!-- begin c-hero -->
+<div>
+  <div id="header_section">
+    <div class="container" id="banner_container">
+      <div class="row">
+        <div class="col-md-6">
+          <div id="banner_text">
+            <h1>{{ site.data.settings.author.say-hello }}</h1>
+            <p>{{ site.data.settings.author.bio }}</p>
+            <div id="view_blogs">
+              <a href="">View Blogs</a>
+              <div>
+                {% include contact-link.html %}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div id="banner_img">
+            <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="bulb">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end hero -->
