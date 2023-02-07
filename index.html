@@ -18,8 +18,51 @@ layout: default
 			{% endfor %}
 			{% endif %}
 		</div>
-		<div class="col-md-4" style="background-color: red !important;">
-			<p>hello world</p>
+		<div class="col-lg-4">
+			<div class="blog_right_sidebar">
+
+				<aside class="single_sidebar_widget author_widget">
+					<div id="sidebar_author_img">
+						<img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="author">
+					</div>
+					<h4>Christopher Allen</h4>
+					<div class="social_icon">
+						<a href=""><i class="fa-brands fa-facebook-f"></i></a>
+						<a href=""><i class="fa-brands fa-twitter"></i></a>
+						<a href=""><i class="fa-brands fa-instagram"></i></a>
+						<a href=""><i class="fa-brands fa-github"></i></a>
+						<a href=""><i class="fa-brands fa-linkedin"></i></a>
+					</div>
+
+				</aside>
+
+				<aside class="single_sidebar_widget ads_widget">
+					<a href="#"><img class="img-fluid" src="{{ 'img/blog/add.jpg' | relative_url }}" alt=""></a>
+					<div class="br"></div>
+				</aside>
+
+				<aside class="single-sidebar-widget tag_cloud_widget">
+					<h4 class="widget_title">Tag Clouds</h4>
+					<ul class="list">
+						<li><a href="/tag/signatures/">Signatures</a></li>
+						<li><a href="/tag/games">Games</a></li>
+						<li><a href="/tag/home">Home</a></li>
+						<li><a href="/tag/interface">Interface</a></li>
+						<li><a href="/tag/politics">Politics</a></li>
+						<li><a href="/tag/rating">Rating</a></li>
+						<li><a href="/tag/security">Security</a></li>
+						<li><a href="/tag/social">Social</a></li>
+						<li><a href="/tag/society">Society</a></li>
+						<li><a href="/tag/software">Software</a></li>
+						<li><a href="/tag/system">System</a></li>
+						<li><a href="/tag/user">User</a></li>
+						<li><a href="/tag/userinterface">Userinterface</a></li>
+						<li><a href="/tag/web">Web</a></li>
+						<li><a href="/tag/weblogs">Weblogs</a></li>
+						<li><a href="/tag/wiki">Wiki</a></li>
+					</ul>
+				</aside>
+			</div>
 		</div>
 	</div>
 	{% include pagination.html %}

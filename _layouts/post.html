@@ -1,99 +1,134 @@
 ---
 layout: default
 ---
-<div class="container">
-  <div class="post-title-box">
+
+<!--================Blog Area =================-->
+<section class="blog_area single-post-area section_gap">
+  <div class="container">
     <div class="row">
-      <div class="">
-        <span class="post__date">
-          <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
-        </span>
 
-        <h1 class="post-title">{{ page.title | escape }}</h1>
 
-        <div class="post__info">
-          <div class="post__author">
-            <span>By</span>
-            <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
+      <div class="col-lg-8 posts-list">
+        <div class="single-post row">
+          <div class="col-lg-12">
+            <div class="feature-img">
+              {% assign no-image = nil %}
+              {% if page.image %}
+              <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
+              {% else %}
+              {% assign no-image = 'post-no-image' %}
+              {% endif %}
+            </div>
+          </div>
+          <div class="col-lg-3  col-md-3">
+            <div class="blog_info text-right">
+
+              <ul class="blog_meta list">
+                <li><a href="#">{{page.date | date: '%b %d, %Y'}}<i class="lnr lnr-calendar-full"></i></a></li>
+                <li>
+                  <a href="#">
+                    {% if page.tags.size >= 1 %}
+                    {% for tag in page.tags %}
+                    <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", " -" }}" class="post__tags-tag">
+                      {{ tag }}</a>
+                    {% endfor %}
+                    {% endif %}
+                  </a>
+                </li>
+              </ul>
+
+            </div>
+          </div>
+          <div class="col-lg-9 col-md-9 blog_details">
+            <h2>{{ page.title | escape }}</h2>
+
+            <p>
+              {{ content }}
+            </p>
           </div>
 
-          {% if page.tags.size >= 1 %}
-          <div class="post__tags">
-            {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", " -" }}" class="post__tags-tag">{{ tag
-              }}</a>
-            {% endfor %}
+        </div>
+        <div class="navigation-area">
+          <div class="row">
+            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
+              <div class="thumb">
+                <a href="#"><img class="img-fluid" src="img/blog/prev.jpg" alt=""></a>
+              </div>
+              <div class="arrow">
+                <a href="#"><span class="lnr text-white lnr-arrow-left"></span></a>
+              </div>
+              <div class="detials">
+                <p>Prev Post</p>
+                <a href="#">
+                  <h4>Space The Final Frontier</h4>
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+              <div class="detials">
+                <p>Next Post</p>
+                <a href="#">
+                  <h4>Telescopes 101</h4>
+                </a>
+              </div>
+              <div class="arrow">
+                <a href="#"><span class="lnr text-white lnr-arrow-right"></span></a>
+              </div>
+              <div class="thumb">
+                <a href="#"><img class="img-fluid" src="img/blog/next.jpg" alt=""></a>
+              </div>
+            </div>
           </div>
-          {% endif %}
+        </div>
+
+      </div>
+      <div class="col-lg-4">
+        <div class="blog_right_sidebar">
+
+          <aside class="single_sidebar_widget author_widget">
+            <div id="sidebar_author_img">
+              <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="author">
+            </div>
+            <h4>Christopher Allen</h4>
+            <div class="social_icon">
+              <a href=""><i class="fa-brands fa-facebook-f"></i></a>
+              <a href=""><i class="fa-brands fa-twitter"></i></a>
+              <a href=""><i class="fa-brands fa-instagram"></i></a>
+              <a href=""><i class="fa-brands fa-github"></i></a>
+              <a href=""><i class="fa-brands fa-linkedin"></i></a>
+            </div>
+
+          </aside>
+
+          <aside class="single_sidebar_widget ads_widget">
+            <a href="#"><img class="img-fluid" src="{{ 'img/blog/add.jpg' | relative_url }}" alt=""></a>
+            <div class="br"></div>
+          </aside>
+
+          <aside class="single-sidebar-widget tag_cloud_widget">
+            <h4 class="widget_title">Tag Clouds</h4>
+            <ul class="list">
+              <li><a href="/tag/signatures/">Signatures</a></li>
+              <li><a href="/tag/games">Games</a></li>
+              <li><a href="/tag/home">Home</a></li>
+              <li><a href="/tag/interface">Interface</a></li>
+              <li><a href="/tag/politics">Politics</a></li>
+              <li><a href="/tag/rating">Rating</a></li>
+              <li><a href="/tag/security">Security</a></li>
+              <li><a href="/tag/social">Social</a></li>
+              <li><a href="/tag/society">Society</a></li>
+              <li><a href="/tag/software">Software</a></li>
+              <li><a href="/tag/system">System</a></li>
+              <li><a href="/tag/user">User</a></li>
+              <li><a href="/tag/userinterface">Userinterface</a></li>
+              <li><a href="/tag/web">Web</a></li>
+              <li><a href="/tag/weblogs">Weblogs</a></li>
+              <li><a href="/tag/wiki">Wiki</a></li>
+            </ul>
+          </aside>
         </div>
       </div>
     </div>
   </div>
-
-  {% assign no-image = nil %}
-  {% if page.image %}
-  <div class="post__head">
-    <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
-  </div>
-  {% else %}
-  {% assign no-image = 'post-no-image' %}
-  {% endif %}
-
-</div>
-
-
-<div class="container">
-  <div class="row">
-    <!-- begin post -->
-    <article class="post {{ no-image }} col col-8 col-t-10 col-m-12">
-
-      <div class="post__content">
-        {{ content }}
-      </div>
-
-    </article>
-    <!-- end post -->
-  </div>
-</div>
-
-<div class="container">
-  <div class="post__navigation">
-    {% if page.previous.url %}
-    <div class="prev">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}"
-        style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
-      <h2 class="post__nav__title">
-        <i class="ion ion-md-arrow-back"></i>
-        <a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
-      </h2>
-      <p class="prev__excerpt">
-        {% if page.previous.description %}
-        {{ page.previous.description }}
-        {% else %}
-        {{ page.previous.content | strip_html | truncate: 110 }}
-        {% endif %}
-      </p>
-    </div>
-    {% endif %}
-
-    {% if page.next.url %}
-    <div class="next">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}"
-        style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
-      </a>
-      <h2 class="post__nav__title">
-        <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a>
-        <i class="ion ion-md-arrow-forward"></i>
-      </h2>
-      <p class="next__excerpt">
-        {% if page.next.description %}
-        {{ page.next.description }}
-        {% else %}
-        {{ page.next.content | strip_html | truncate: 110 }}
-        {% endif %}
-      </p>
-    </div>
-    {% endif %}
-  </div>
-</div>
-
+</section>
+<!--================Blog Area =================-->
