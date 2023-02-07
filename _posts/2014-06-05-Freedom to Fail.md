@@ -3,11 +3,7 @@ layout: post
 title:  Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend"
 date:   2014-06-05 12:35-07 +0300
 image:  04.jpg
-<<<<<<< HEAD
-tags:   Life
-=======
 tags:   Home
->>>>>>> gh-pages
 ---
 
 Post by Christopher Allen. original layout

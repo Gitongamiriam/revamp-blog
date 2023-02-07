@@ -3,11 +3,7 @@ layout: post
 title:  Speaking at Consensus 2015
 date:   2015-09-07 23:54-07 +0300
 image:  02.jpg
-<<<<<<< HEAD
-tags:   Resources
-=======
 tags:   Home
->>>>>>> gh-pages
 ---
 
 

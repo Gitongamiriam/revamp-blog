@@ -3,11 +3,7 @@ layout: post
 title:  Introduction to Group Works and the Group Pattern Language
 date:   2014-04-29 14:51:07 +0300
 image:  06.jpg
-<<<<<<< HEAD
-tags:   Style
-=======
 tags:   Home
->>>>>>> gh-pages
 ---
 
 In 2009, Elinor Ostrom received the Nobel Prize in Economics for her “analysis of economic governance, especially the commons”.

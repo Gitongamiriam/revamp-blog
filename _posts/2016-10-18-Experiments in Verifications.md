@@ -3,11 +3,7 @@ layout: post
 title:  Life With Alacrity
 date:   2016-10-19 08:06:00 +0300
 image:  self-soverreign.jpeg
-<<<<<<< HEAD
-tags:   Resources
-=======
 tags:   Home
->>>>>>> gh-pages
 ---
 
 
