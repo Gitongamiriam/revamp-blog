@@ -7,13 +7,11 @@ Following is a list of major blockchain, digital identity, and other events.
 * **[European Blockchain Convention](https://eblockchainconvention.com)** 2023/02/15 - 2023/02/17 | Barcelona
 * **Real World Crypto 2023** 2023/03/27 - 2023/03/29 | Tokyo, Japan
 * **Bitcoin Miami** 2023/05/18 - 2023/05/20 | Miami Beach
-* **Dweb Camp** <https://dwebcamp.org/>
-    * 2023/06/21 - 2023/06/25 | Camp Navarro CA
-* **OAuth Security Workshop** <https://oauth.secworkshop.events/>
+* **[Dweb Camp](https://dwebcamp.org)** 2023/06/21 - 2023/06/25 | Camp Navarro CA
+* **[OAuth Security Workshop](https://oauth.secworkshop.events)**
     * 2023/08/22 - 2023/08/24 | Royal Holloway University, London/UK
-* **IIW** XXXVII Fall: 2023/10/10 - 2023/10/12     
-* **Identity Week Asia** <https://www.terrapinn.com/exhibition/identity-week-asia/index.stm>
-    * 2023/11/07 - 2023/11/08 | Suntec Convention Centre, Singapore
+* **[IIW](https://internetidentityworkshop.com)** XXXVII Fall: 2023/10/10 - 2023/10/12 
+* **[Identity Week Asia](https://www.terrapinn.com/exhibition/identity-week-asia/index.stm)** 2023/11/07 - 2023/11/08 | Suntec Convention Centre, Singapore
 
 ## General Identity Groups
 
