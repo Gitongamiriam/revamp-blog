@@ -623,7 +623,7 @@ ul {
 }
 
 .footer .copyright a:hover {
-    color: #f6b141
+    color: #488ef3
 }
 
 @media only screen and (max-width: 576px) {
@@ -815,7 +815,7 @@ ul {
     font-size: 12px;
     line-height: 18px;
     text-transform: uppercase;
-    color: #bbb
+    color: #818181
 }
 
 .article .article__content .article__footer {
@@ -831,12 +831,12 @@ ul {
     letter-spacing: 1px;
     text-transform: uppercase;
     border-bottom: 1px solid rgba(0, 0, 0, 0);
-    color: #bbb
+    color: #8f8f8f
 }
 
 .article .article__content .article__footer .read-more:hover {
     color: #393e46;
-    border-color: #f6b141
+    border-color: #488ef3
 }
 
 .article .article-without-image {
