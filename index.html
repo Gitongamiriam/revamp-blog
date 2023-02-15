@@ -7,6 +7,7 @@ layout: default
 
 
 	<div class="row">
+		<div class="col-lg-2"></div>
 		<div class="col-md-8">
 			{% if site.posts.size > 0 %}
 			{% for post in paginator.posts %}
@@ -14,8 +15,8 @@ layout: default
 			{% endfor %}
 			{% endif %}
 		</div>
-		<div class="col-lg-4">
-			<div class="blog_right_sidebar">
+		<div class="col-lg-2">
+			<!-- <div class="blog_right_sidebar">
 
 				<aside class="single_sidebar_widget author_widget">
 					<div id="sidebar_author_img">
@@ -58,7 +59,7 @@ layout: default
 						<li><a href="/revamp-blog/tag/wiki">Wiki</a></li>
 					</ul>
 				</aside>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	{% include pagination.html %}
