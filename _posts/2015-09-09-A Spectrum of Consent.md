@@ -20,11 +20,11 @@ by Christopher Allen
 
 **Consensus-flowchart**
 
-I have made understanding of consent and consensus, in both their human and technological forms, a major part of my career. I have explored them through my work in cryptographic technologies, but also in human terms at the [Group Pattern Language Project](https://groupworksdeck.org/), by co-authoring with Shannon Appecline forthcoming book on the design of collaborative games, and another book in progress on the patterns of cooperative play. My business management style is also more collaborative and inclusive.
+I have made understanding of consent and consensus, in both their human and technological forms, a major part of my career. I have explored them through my work in cryptographic technologies, but also in human terms at the [Group Pattern Language Project](https://groupworksdeck.org/){:target="_blank"}, by co-authoring with Shannon Appecline forthcoming book on the design of collaborative games, and another book in progress on the patterns of cooperative play. My business management style is also more collaborative and inclusive.
 
-This topic is so important to me that I named the company I founded in 1988 (that eventually led the effort to establish TLS 1.0 as an internet standard) was named "Consensus Development" [(archive.org)](https://web.archive.org/web/19980709005818/http://www.consensus.com/).
+This topic is so important to me that I named the company I founded in 1988 (that eventually led the effort to establish TLS 1.0 as an internet standard) was named "Consensus Development" [(archive.org)](https://web.archive.org/web/19980709005818/http://www.consensus.com/){:target="_blank"}.
 
-Thus I've been fascinated this week to watch a major online community try to define for itself what “consent” and “consensus” in their community will mean. This community in question is the Bitcoin cryptocurrency community, which is faced with a minority of the community attempting to “hard fork”. This weekend they [meet in Montreal](https://montreal2015.scalingbitcoin.org/) to attempt to discover another way to return to some form of unanimity and broad consent of their stakeholders.
+Thus I've been fascinated this week to watch a major online community try to define for itself what “consent” and “consensus” in their community will mean. This community in question is the Bitcoin cryptocurrency community, which is faced with a minority of the community attempting to “hard fork”. This weekend they [meet in Montreal](https://montreal2015.scalingbitcoin.org/){:target="_blank"} to attempt to discover another way to return to some form of unanimity and broad consent of their stakeholders.
 
 
 
@@ -32,9 +32,9 @@ This is of the hardest problems in human interactions. Consent comes from the La
 
 **A Spectrum of Consent**
 
-In my recent efforts into understanding this topic, and some recent dives into my  [Systems For Collective Choice](), the topic of the A Spectrum Of Consent has repeatedly come up. There appear to be a range of levels of consent required for various deliberative processes and voting systems.
+In my recent efforts into understanding this topic, and some recent dives into my  [Systems For Collective Choice](){:target="_blank"}, the topic of the A Spectrum Of Consent has repeatedly come up. There appear to be a range of levels of consent required for various deliberative processes and voting systems.
 
-I have had these incomplete notes on the Spectrum of Consent around for a couple of years, which I've only shared privately. However, given my discussions this week at the [Consensus 2015](https://montreal2015.scalingbitcoin.org/) conference and elsewhere, it was time to share. I welcome comments and suggestions!
+I have had these incomplete notes on the Spectrum of Consent around for a couple of years, which I've only shared privately. However, given my discussions this week at the [Consensus 2015](https://montreal2015.scalingbitcoin.org/){:target="_blank"} conference and elsewhere, it was time to share. I welcome comments and suggestions!
 
 Basically, many groups view consensus processes as a requirement, however, many others see consensus processes as unworkable and a serious problem to be avoided. These efforts to define A Spectrum Of Consent are somewhat to help me understand this dichotomy. I personally believe that certain deliberative processes and voting systems are good for some things, some for others. But I find I'm rare in that opinion — most people lean strongly in way one or the other.
 
@@ -86,7 +86,7 @@ There is clearly some conflation and orthogonality in my list below of types of 
 
 **Dictatorship** — Executive authority exercised to ensure a monopoly of authority by its elected representative.
 
-*(image credit: grant horwood, aka frymaster [CC BY-SA 2.5-2.0-1.0 ](https://creativecommons.org/licenses/by-sa/2.5-2.0-1.0))*
+(image credit: grant horwood, aka frymaster [CC BY-SA 2.5-2.0-1.0 ](https://creativecommons.org/licenses/by-sa/2.5-2.0-1.0){:target="_blank"})
 
 **original layout**
 

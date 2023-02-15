@@ -9,9 +9,6 @@ tags:   Home
 In my initial blog entry on the Dunbar Number I presented some statistics on group sizes based on the online game Ultimata Online. In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:
 
 
-
-
-
 More recently, Nick Yee and other researchers at the PlayOn Blog have been researching the behaviors of players in the popular World of Warcraft online game. At my request, they sampled guild sizes over a one-week period, and prepared similar graphs (now 404, use internet archive link):
 
 Guildsize

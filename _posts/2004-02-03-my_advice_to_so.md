@@ -135,19 +135,19 @@ Michael Weiksner 2004-02-09T14:54:23-07:00
 FriendBlend is another new social networking site you might want to take a look at - it combines match-making with blogs, moblogs, online photo sharing and a lot of the group features such as polling and quizes that you mention. Great post!
 
 David Jenness 2004-06-20T18:04:23-07:00
-another cool site to check out is for College Social Networking is http://www.collegester.com . Also a hip site for Lloyd Banks is worth peaking at..... I've seen the Social Networking Software for sell at http://www.bestnetsoftware.com for those interested in starting their own social networking site or community!!
+another cool site to check out is for College Social Networking is [collegester](http://www.collegester.com){:target="_blank"} . Also a hip site for Lloyd Banks is worth peaking at..... I've seen the Social Networking Software for sell at [bestnetsoftware](http://www.bestnetsoftware.com){:target="_blank"} for those interested in starting their own social networking site or community!!
 
 Social Networking 2004-07-09T07:42:54-07:00
-my friend http://www.ryanleslie.com is planning a social networking site for musicians
+my friend [Ryan-Leslie](http://www.ryanleslie.com){:target="_blank"} is planning a social networking site for musicians
 
 ricky 2004-10-21T10:50:50-07:00
-URL: http://www.egrupos.com/ is virtually unknown in the US but becoming very popular in Spain and Latin America, and they're becoming a trend-setter, integrating email groups (a la YahooGroup but perhaps even more customizable), social networking tools and online auctions. A weird combination that however it seems to be working ok so far.
+URL: [egripos](http://www.egrupos.com/){:target="_blank"} is virtually unknown in the US but becoming very popular in Spain and Latin America, and they're becoming a trend-setter, integrating email groups (a la YahooGroup but perhaps even more customizable), social networking tools and online auctions. A weird combination that however it seems to be working ok so far.
 
 Pepe B. 2004-11-15T12:01:36-07:00
-This is kind of a neat personals site that's looking to add in social network functionality. Email through the site if you're interested in partnerships. http://www.itsjustcoffee.com
+This is kind of a neat personals site that's looking to add in social network functionality. Email through the site if you're interested in partnerships. [Just-coffee](http://www.itsjustcoffee.com){:target="_blank"}
 
 ItsJustCoffee 2004-12-03T16:48:10-07:00
-Hi...I put up a site dedicated to the social networking niche of gated online communities at http://www.gatedonlinecommunities.com Any comments on the subject are appreciated! Thanks Marc
+Hi...I put up a site dedicated to the social networking niche of gated online communities at [Gated On Line Communities](http://www.gatedonlinecommunities.com){:target="_blank"} Any comments on the subject are appreciated! Thanks Marc
 
 Marc L GatedOnlineCommunities.com 2005-10-24T14:24:11-07:00
 Eerst Europa Doelstellingen: De Ci2i Verzekering (Ci2i) zal het nummer een gebrandmerkte pan Europese commoditized online verzekeringsmakelaar door 2010 zijn.

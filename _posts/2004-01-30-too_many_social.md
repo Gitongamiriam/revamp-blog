@@ -28,7 +28,7 @@ Comments
 hmmm... seems like we are having random growth and preferential attachment in a scale-free network; looks like Orkut is winning....
 
 Tom Munnecke 2004-01-31T21:34:14-07:00
-Very much on the same note, I wrote this entry (http://wetware.hjalli.com/000576.shtml) a few days ago. Since then however, I gave Orkut a chance - and it seems to far exceed the other systems in terms of features and above all ease of use. Sorry LinkedIn - Orkut is becoming the SNS (Social Networking System) of choice.
+Very much on the same note, I wrote this [entry](http://wetware.hjalli.com/000576.shtml){:target="_blank"} a few days ago. Since then however, I gave Orkut a chance - and it seems to far exceed the other systems in terms of features and above all ease of use. Sorry LinkedIn - Orkut is becoming the SNS (Social Networking System) of choice.
 
 Hjalmar Gislason 2004-03-13T17:18:54-07:00
 original layout

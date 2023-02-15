@@ -175,55 +175,55 @@ The following terms are relevant to this article. These are just a subset of the
 
 Thanks to various people who commented on early drafts of this article. Some of their suggestions were used word for word, some were adapted to the text, and everything was carefully considered. The most extensive revisions came from comments by Shannon Appelcline, Dave Crocker, Anil John, and Drummond Reed. Other commentators and contributors include: Doc Searls, Kaliya Young, Devon Loffreto, Greg Slepak, Alex Fowler, Fen Labalme, Justin Netwon, Markus Sabadello, Adam Back, Ryan Shea, Manu Sporney, and Peter Todd. I know much of the commentary didn't make it into this draft, but the discussion on this topic continues…
 
-[Image by John Hain licensed CC0](https://pixabay.com/en/identity-mask-disguise-mindset-510866/)
+[Image by John Hain licensed CC0](https://pixabay.com/en/identity-mask-disguise-mindset-510866/){:target="_blank"}.
 
 The opinions in this article are my own, not my employer's nor necessarily the opinions of those that have offered commentary on it.
 
-[1 Jon Callas, Phil Zimmerman. 2015. “The PGP Paradigm”. #RebootingWebOfTrust Design Workshop.](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/PGP-Paradigm.pdf.)
+[1 Jon Callas, Phil Zimmerman. 2015. “The PGP Paradigm”. #RebootingWebOfTrust Design Workshop.](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/PGP-Paradigm.pdf){:target="_blank"}.
 
-[2 Appelcline, Crocker, Farmer, Newton. 2015. “Rebranding the Web of Trust”. #RebootingWebOfTrust Design Workshop.]( https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)
+[2 Appelcline, Crocker, Farmer, Newton. 2015. “Rebranding the Web of Trust”. #RebootingWebOfTrust Design Workshop.]( https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf){:target="_blank"}.
 
-[3 Ellison, Carl. 1996. “Establishing Identity without Certification Authorities”. 6th USENIX Security Symposium.](http://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf.)
+[3 Ellison, Carl. 1996. “Establishing Identity without Certification Authorities”. 6th USENIX Security Symposium.](http://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf){:target="_blank"}.
 
-[4 Ellison, C. 1999. “RFC 2692: SPKI Requirements”. IETF.](https://tools.ietf.org/html/rfc269)
+[4 Ellison, C. 1999. “RFC 2692: SPKI Requirements”. IETF.](https://tools.ietf.org/html/rfc269){:target="_blank"}.
 
-[5 Ellison, C., et. al. 1999. “RFC 2693: SPKI Certificate Theory”. IETF.](https://tools.ietf.org/html/rfc269)
+[5 Ellison, C., et. al. 1999. “RFC 2693: SPKI Certificate Theory”. IETF.](https://tools.ietf.org/html/rfc269){:target="_blank"}.
 
-[6 Jordon, Ken, Jan Hauser, and Steven Foster. 2003. “The Augmented Social Network: Building Identity and Trust into the Next-Generation Internet”. Networking: A Sustainable Future.](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf)
+[6 Jordon, Ken, Jan Hauser, and Steven Foster. 2003. “The Augmented Social Network: Building Identity and Trust into the Next-Generation Internet”. Networking: A Sustainable Future.](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf){:target="_blank"}.
 
-[7 Jøsang, Audun and Simon Pope. 2005. “User Centric Identity Management”. AusCERT Conference 2005.](http://folk.uio.no/josang/papers/JP2005-AusCERT.pdf)
+[7 Jøsang, Audun and Simon Pope. 2005. “User Centric Identity Management”. AusCERT Conference 2005.](http://folk.uio.no/josang/papers/JP2005-AusCERT.pdf){:target="_blank"}.
 
-[8 Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain. ](http://w3c.github.io/webpayments-ig/VCTF/charter/faq.html)
+[8 Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain. ](http://w3c.github.io/webpayments-ig/VCTF/charter/faq.html){:target="_blank"}.
 
-[9 Gilbertson, Scott. 2011. “OpenID: The Web’s Most Successful Failure”. Webmonkey.](http://www.webmonkey.com/2011/01/openid-the-webs-most-successful-failure)
+[9 Gilbertson, Scott. 2011. “OpenID: The Web’s Most Successful Failure”. Webmonkey.](http://www.webmonkey.com/2011/01/openid-the-webs-most-successful-failure){:target="_blank"}.
 
-[10 Hassine, Wafa Ben and Eva Galperine. “Changes to Facebook’s ‘Real Name’ Policy Still Don’t Fix the Problem”. EFF.](https://www.eff.org/deeplinks/2015/12/changes-facebooks-real-names-policy-still-dont-fix-problem)
+[10 Hassine, Wafa Ben and Eva Galperine. “Changes to Facebook’s ‘Real Name’ Policy Still Don’t Fix the Problem”. EFF.](https://www.eff.org/deeplinks/2015/12/changes-facebooks-real-names-policy-still-dont-fix-problem){:target="_blank"}.
 
 [11 Loffreto, Devon. 2012. “What is ‘Sovereign Source Authority’?” The Moxy Tongue.](http://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html)
 
-[12 Open Mustard Seed. 2013. “Open Mustard Seed (OMS) Framework). ID3.](https://idcubed.org/open-platform/platform/)
+[12 Open Mustard Seed. 2013. “Open Mustard Seed (OMS) Framework). ID3.](https://idcubed.org/open-platform/platform/){:target="_blank"}.
 
-[13 Loffreto, Devon. 2016. “Self-Sovereign Identity”. The Moxy Tongue.](http://www.moxytongue.com/2016/02/self-sovereign-identity.html)
+[13 Loffreto, Devon. 2016. “Self-Sovereign Identity”. The Moxy Tongue.](http://www.moxytongue.com/2016/02/self-sovereign-identity.html){:target="_blank"}.
 
-[14 Respect Network. 2016. “The Respect Trust Network v2.1”. oixnet.org.](http://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf)
+[14 Respect Network. 2016. “The Respect Trust Network v2.1”. oixnet.org.](http://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf){:target="_blank"}.
 
-[15 Graydon, Carter. 2014. “Top Bitcoin Companies Propose the Windhover Principles – A New Digital Framework for Digital Identity, Trust and Open Data”. CCN.](https://www.cryptocoinsnews.com/top-bitcoin-companies-propose-windhover-principles-new-digital-framework-digital-identity-trust-open-data/)
+[15 Graydon, Carter. 2014. “Top Bitcoin Companies Propose the Windhover Principles – A New Digital Framework for Digital Identity, Trust and Open Data”. CCN.](https://www.cryptocoinsnews.com/top-bitcoin-companies-propose-windhover-principles-new-digital-framework-digital-identity-trust-open-data/){:target="_blank"}.
 
 [16 Smith, Samuel M. and Khovratovich, Dmitry. 2016. “Identity System Essentials”. Evernym.](http://www.evernym.com/assets/doc/Identity-System-Essentials.pdf)
 
-[17 Dahan, Mariana and John Edge. 2015. “The World Citizen: Transforming Statelessness into Global Citizenship”. The World Bank.](http://blogs.worldbank.org/ic4d/category/tags/self-sovereign-identity-systems)
+[17 Dahan, Mariana and John Edge. 2015. “The World Citizen: Transforming Statelessness into Global Citizenship”. The World Bank.](http://blogs.worldbank.org/ic4d/category/tags/self-sovereign-identity-systems){:target="_blank"}.
 
-[18 Identity Commons. 2007. “Claim”. IDCommons Wiki.](http://wiki.idcommons.net/Claim)
+[18 Identity Commons. 2007. “Claim”. IDCommons Wiki.](http://wiki.idcommons.net/Claim){:target="_blank"}.
 
-[19 Christopher Allen. 2015. “The Four Kinds of Privacy”. Life With Alacrity blog.](/2015/04/the-four-kinds-of-privacy.html)
+[19 Christopher Allen. 2015. “The Four Kinds of Privacy”. Life With Alacrity blog.](/2015/04/the-four-kinds-of-privacy.html){:target="_blank"}.
 
-[20 Cameron, Kim. 2005. “The Laws of Identity”.](https://msdn.microsoft.com/en-us/library/ms996456.aspx)
+[20 Cameron, Kim. 2005. “The Laws of Identity”.](https://msdn.microsoft.com/en-us/library/ms996456.aspx){:target="_blank"}.
 
-[21 Respect Network. 2016. “The Respect Trust Network v2.1”. oixnet.org.](http://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf)
+[21 Respect Network. 2016. “The Respect Trust Network v2.1”. oixnet.org.](http://oixnet.org/wp-content/uploads/2016/02/respect-trust-framework-v2-1.pdf){:target="_blank"}.
 
-[22 Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain.](http://w3c.github.io/webpayments-ig/VCTF/charter/faq.html)
+[22 Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain.](http://w3c.github.io/webpayments-ig/VCTF/charter/faq.html){:target="_blank"}.
 
-[23 "Definition of Credential". Dictionary.com.](http://www.dictionary.com/browse/credential?s=t↩)
+[23 "Definition of Credential". Dictionary.com.](http://www.dictionary.com/browse/credential?s=t↩){:target="_blank"}.
 
 **original layout**
 

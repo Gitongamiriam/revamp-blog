@@ -33,7 +33,7 @@ Blog posting: JotSpot - Lego Style Wiki? by Judith Meskill
 Blog posting: Jot Wiki kicks ass… (Live from Web 2.0 conference in San Fran) - by Jason Calacanis
 Audio: Audio archive of JotSpot demo at Web 2.0 Conference recorded by Jason Calacanis
 Comments
-An article in spanish: http://www.error500.net/modules/news/article.php?storyid=997
+An article in [spanish](http://www.error500.net/modules/news/article.php?storyid=997){:target="_blank"}
 
 Antonio 2004-10-07T13:51:54-07:00
 Hi, If you like the notion of Application Wikis, you should have a look at the open source project XWiki.. It includes not only a form engine but also a programming API inside wiki pages as well as un underlying relational database.. Ludovic

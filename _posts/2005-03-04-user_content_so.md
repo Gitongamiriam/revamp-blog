@@ -22,7 +22,7 @@ More recent articles by Shannon have ranged in topics from analysis of the use o
 I always find Shannon's articles rich and deeply thought out -- I think you will to.
 
 Comments
-URL: As we introduce user content systems into games, filtering it will become the next challenge ------- http://www.putosprogramas.com
+URL: As we introduce user content systems into games, filtering it will become the next challenge ------- [putosprogramas](http://www.putosprogramas.com){:target="_blank"}
 
 nameloso 2005-06-17T06:14:04-07:00
 original layout

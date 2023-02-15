@@ -28,7 +28,7 @@ By this point I was working after school part-time in a microcomputer store, so 
 MacPaint (1984)
 Six years passed, and personal computers started to become more common in people’s workplaces and homes. Unlike the IMSAI 8080, they now had screens and keyboards, and they made great text processors and data crunchers, but they weren’t particularly “sexy”. On January 24, 1984, the first Mac was released, and I dropped into my local computer store to see what it was all about. The original 128K Mac was “different”, as Apple’s later marketing campaign put it, but also clunky in appearance.
 
-However, my jaw dropped when I saw Bill Atkinson's (MacPaint) [http://en.wikipedia.org/wiki/MacPaint]. The simple elegance of this software that allowed me to draw and express myself graphically on a computer screen with a mouse was what sold me on the Mac, not the hardware.
+However, my jaw dropped when I saw Bill Atkinson's (MacPaint)[http://en.wikipedia.org/wiki/MacPaint]{:target="_blank"}. The simple elegance of this software that allowed me to draw and express myself graphically on a computer screen with a mouse was what sold me on the Mac, not the hardware.
 
 
 

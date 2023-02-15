@@ -26,7 +26,7 @@ Technical Details: EditThisPagePHP is written solely in PHP, and it currently wo
 Future goals are to support more technical features, without losing the elegance and simplicity of the implementation. This may include limited Wiki TextFormatting or a simple WYSIWYG editor, HTML-tidy, some user-interface enhancements, etc. A complete list is available on our wishlist page.
 
 Comments
-I'm amused at the talk of prior art and 1999 visions, the very first web client (1990) had EditThisPage built in - the browser was the editor. The same approach is still taken by browsers like Amaya. http://www.w3.org/People/Berners-Lee/WorldWideWeb.html
+I'm amused at the talk of prior art and 1999 visions, the very first web client (1990) had EditThisPage built in - the browser was the editor. The same approach is still taken by browsers like Amaya. [w3](http://www.w3.org/People/Berners-Lee/WorldWideWeb.html){:target="_blank"}
 
 Danny 2004-06-02T05:23:56-07:00
 URL: I'm amused at the talk of prior art and 1999 visions, the very first web client (1990) had EditThisPage built in - the browser was the editor. The same approach is still taken by browsers like Amaya.

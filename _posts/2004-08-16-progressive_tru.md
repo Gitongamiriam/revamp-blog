@@ -46,10 +46,10 @@ Thus progressive trust is a useful conceptual model for understanding how trust 
 Progressive trust also maps well to an user-interface design technique called Progressive Disclosure. It sequences information and actions across several different windows in order not overwhelm the user. You disclose basic information and choices first, then revealing progressively more complex information and choices. Thus you help the user manage the complexity of the application. Navigating group interactions and culture is also complex, thus progressive trust allows you to hide some of initial complexity of the trust model behind your tools, and thus lower barriers of entry to your software.
 
 Comments
-Ash Maurya's thought provoking Venn diagram in "Beyond Social Networking" (see http://www.wiredjournal.com/archives/000008.html) lists a number of modes or contexts that enable trust buildig in a relationship.
+Ash Maurya's thought provoking Venn diagram in "Beyond Social Networking" (see [wiredjournal](http://www.wiredjournal.com/archives/000008.html){:target="_blank"} lists a number of modes or contexts that enable trust buildig in a relationship.
 
 Sean Murphy 2004-08-20T00:42:48-07:00
-Very cogent post, Christopher. I think you've hit upon what makes blogs so useful and novel in the computing world. I wrote a response in my own blog: http://frassle.rura.org/christopherAllenGets
+Very cogent post, Christopher. I think you've hit upon what makes blogs so useful and novel in the computing world. I wrote a response in my own [blog](http://frassle.rura.org/christopherAllenGets){:target="_blank"}
 
 Shimon Rura 2004-08-26T08:39:54-07:00
 original layout

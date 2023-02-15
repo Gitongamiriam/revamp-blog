@@ -29,7 +29,7 @@ Don Park 2004-09-28T21:21:48-07:00
 URL: Did you see the new version? The author of TiddlyWiki has released version 3 with many new features.
 
 Will 2005-04-15T08:33:26-07:00
-In the same vein and for "heavier" stuff: http://www.kevembuangga.com/hwk/ Alas, still in Beta and Firefox only Any comments appreciated anyway
+In the same vein and for "heavier" stuff: [kevembuangga](http://www.kevembuangga.com/hwk/){:target="_blank"} Alas, still in Beta and Firefox only Any comments appreciated anyway
 
 Kevembuangga 2005-04-21T21:51:31-07:00
 original layout

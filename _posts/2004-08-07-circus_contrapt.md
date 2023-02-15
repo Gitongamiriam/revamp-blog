@@ -27,7 +27,7 @@ Comments
 URL: What type of ropework was done? I am very interested in this.
 
 arthur binghampton 2004-08-07T14:31:47-07:00
-Trackback via comment :-) http://finnern.com/2004/08/08.html Poetic Beauty with a couple of pictures. Loved it, Mark.
+Trackback via comment :-) [finnern](http://finnern.com/2004/08/08.html){:target="_blank"} Poetic Beauty with a couple of pictures. Loved it, Mark.
 
 Mark Finnern 2004-08-09T15:18:22-07:00
 Sounds like fun. Hmmm, I wonder what they do with all the clueless parents who show up with their 7 year olds? Chris is always on the cutting edge of stuff, I expect the rest of the world will be checking this out in 2 months.

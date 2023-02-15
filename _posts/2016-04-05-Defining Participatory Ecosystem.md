@@ -33,15 +33,15 @@ Stakeholders with leadership positions in a participatory ecosystem may change o
 
 A participatory system is resilient, and has system processes, such as decentralization, to prevent bad actors. Every stakeholder in a participatory ecosystem believes that their goods and services matter, and feel some degree of social connection and community with one another (at least they care what other people think about what they produce.) Not every stakeholder must produce, but all must believe that they are free to produce when ready and what they contribute will be appropriately valued.
 
-This is not completely an original idea — it is of a mashup of Henry Jenkins’ [“participatory culture”](https://en.wikipedia.org/wiki/Participatory_culture) definition with James Moore’s [“business ecosystem”](https://en.wikipedia.org/wiki/Business_ecosystem) ideas. I've added a few things I've observed about working participatory ecosystems, and have also run this definition by a number of my colleagues in a variety of industries for small tweaks.
+This is not completely an original idea — it is of a mashup of Henry Jenkins’ [“participatory culture”](https://en.wikipedia.org/wiki/Participatory_culture){:target="_blank"} definition with James Moore’s [“business ecosystem”](https://en.wikipedia.org/wiki/Business_ecosystem){:target="_blank"} ideas. I've added a few things I've observed about working participatory ecosystems, and have also run this definition by a number of my colleagues in a variety of industries for small tweaks.
 
-Most recently I've been using it in talks about the blockchain ecosystem. I have [recently joined Blockstream](https://www.blockstream.com/) where I am leading a number of strategic initiatives, including the company’s participation in cross-industry collaborations, as well as future technical efforts with international standards organizations such as W3C, IETF, and Oasis. In these efforts I have been sharing this definition more broadly, and it seems to be resonating with the community, in particular as the blockchain community cares deeply about decentralization.
+Most recently I've been using it in talks about the blockchain ecosystem. I have [recently joined Blockstream](https://www.blockstream.com/){:target="_blank"} where I am leading a number of strategic initiatives, including the company’s participation in cross-industry collaborations, as well as future technical efforts with international standards organizations such as W3C, IETF, and Oasis. In these efforts I have been sharing this definition more broadly, and it seems to be resonating with the community, in particular as the blockchain community cares deeply about decentralization.
 
-I've posted this definition to [Github](http://www.participatoryecosystem.com/) hoping that others can fork it and submit pull requests to make it better — just like how open source world works!
+I've posted this definition to [Github](http://www.participatoryecosystem.com/){:target="_blank"} hoping that others can fork it and submit pull requests to make it better — just like how open source world works!
 
  
 
-[original layout](http://www.lifewithalacrity.com/previous/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html)
+[original layout](http://www.lifewithalacrity.com/previous/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html){:target="_blank"}.
 
 [Entrepreneuring]() [Security Social]() [Software Social Web for Social Change]() [#SW4SX]() [Web/Tech]()
 

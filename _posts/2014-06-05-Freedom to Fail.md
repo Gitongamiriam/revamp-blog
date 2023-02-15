@@ -24,4 +24,3 @@ Business Commentary Security Social Web for Social Change #SW4SX Web/Tech
 Life With Alacrity
 
 © Christopher Allen
-\

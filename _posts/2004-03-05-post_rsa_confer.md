@@ -64,7 +64,7 @@ RSA was also demoing its latest SecurID integration with Windows, which will ext
 Probably the most interesting, but least useful to me, was a booth for Magiq Technology, who offer a commercial quantum cryptography solution. Quantum cryptography is the ultimate in secret key exchange at a distance -- you can sort of say that the universe protects you from snoopers. However, you have to have a fiber-optic connection between the two devices, which limits its practicality. But it is still cool.
 
 Comments
-NetWizard's blog is actually mine, not Daniel Goldman's (who is a good friend of mine). The patent issues important and in the ASRG which I co-chair, they have come up before with C/R patents held by MailBlocks (you can find some juice tidbits at http://www.solidmatrix.com/research/asrg/asrg-ipr.html).
+NetWizard's blog is actually mine, not Daniel Goldman's (who is a good friend of mine). The patent issues important and in the ASRG which I co-chair, they have come up before with C/R patents held by MailBlocks (you can find some juice tidbits at [solidmatrix](http://www.solidmatrix.com/research/asrg/asrg-ipr.html){:target="_blank"}.
 
 Yakov Shafranovich 2004-03-05T13:09:24-07:00
 Sorry Yakov! I've corrected the attribution above.

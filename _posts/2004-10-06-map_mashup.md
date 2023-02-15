@@ -22,7 +22,7 @@ There are probably many more other innovative uses of this type of transparency 
 [Jeffery To adds some more detail about this Javascript technique in this post's comments.]
 
 Comments
-The Javascript in http://www.multimap.com/static/global.js only sets the clipping for the overlay layer, since it changes everytime the user moves the mouse. The layer transparency (for overDiv) is set in http://www.multimap.com/static/ps_new.css . No need for transparent GIFs. IE does support alpha transparency for layers, using their filter:alpha(opacity=x) declaration. As the posting on semi-transparent image overlays points out, IE doesn't support alpha transparency for PNG images.
+The Javascript in [multimap-js](http://www.multimap.com/static/global.js){:target="_blank"} only sets the clipping for the overlay layer, since it changes everytime the user moves the mouse. The layer transparency (for overDiv) is set in [multimap-css](http://www.multimap.com/static/ps_new.css){:target="_blank"} . No need for transparent GIFs. IE does support alpha transparency for layers, using their filter:alpha(opacity=x) declaration. As the posting on semi-transparent image overlays points out, IE doesn't support alpha transparency for PNG images.
 
 Jeffery To 2004-10-10T11:31:41-07:00
 original layout

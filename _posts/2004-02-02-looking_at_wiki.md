@@ -35,28 +35,28 @@ Adina Levin 2004-02-02T10:55:37-07:00
 Yes, I do know about those features, but I hadn't intended for this post to be an exhaustive review, just a paragraph in or so for each. The fact that you have lots of features is why I referred people to the public rss-winterfest site. I am thinking about doing some more detailed reviews soon, though, and SocialText is near the top of the list.
 
 Christopher Allen 2004-02-02T12:10:44-07:00
-Check out http://tikiwiki.org/tiki-view_articles.php. Cheers Stuart
+Check out [TikiWiki](http://tikiwiki.org/tiki-view_articles.php){:target="_blank"}. Cheers Stuart
 
 stuart henshall 2004-02-02T16:21:12-07:00
 URL: Flexwiki doesn't even work with my Mozilla browser. I'd also recommend MediaWiki (used for all the Wikipedia sites), SnipSnap (java based wiki+blog), and Tiki.
 
 wikuser 2004-02-04T10:12:49-07:00
-The importance of wiki is that WikiIsDocumentBased. ( http://communitywiki.org/WikiIsDocumentBased ) IM, IRC, e-mail, all that stuff is message based. This is the first document based medium. Documents are big heavy things that float around for long periods of time. Messages are flitty things that are useful for a very short period of time. Documents are good for stabilizing massive teachings that don't change often. Messages are good for coordinations and handling new things quickly. We need both. Wiki is essential.
+The importance of wiki is that WikiIsDocumentBased. ( [communitywiki]http://communitywiki.org/WikiIsDocumentBased){:target="_blank"} ) IM, IRC, e-mail, all that stuff is message based. This is the first document based medium. Documents are big heavy things that float around for long periods of time. Messages are flitty things that are useful for a very short period of time. Documents are good for stabilizing massive teachings that don't change often. Messages are good for coordinations and handling new things quickly. We need both. Wiki is essential.
 
 LionKimbro 2004-02-09T00:14:10-07:00
-PC Magazine did a review December 30, 2003 at http://www.pcmag.com/article2/0,4149,1402872,00.asp that rated both SocialText http://www.socialtext.com/ and EditME http://www.editme.com/ at four starts
+PC Magazine did a review December 30, 2003 at [pcmag](http://www.pcmag.com/article2/0,4149,1402872,00.asp){:target="_blank"} that rated both [SocialText](http://www.socialtext.com/){:target="_blank"} and [EditME](http://www.editme.com/){:target="_blank"} at four starts
 
 Sean Murphy 2004-02-12T11:41:40-07:00
-Nice post, I really enjoy oddmuse the next "version" of usemod, which I enjoy because of it's simplicity. also there are a bunch of wikis at WorldWideWiki:SwitchWiki http://www.worldwidewiki.net/wiki/SwitchWiki
+Nice post, I really enjoy oddmuse the next "version" of usemod, which I enjoy because of it's simplicity. also there are a bunch of wikis at [WorldWideWiki:SwitchWiki](http://www.worldwidewiki.net/wiki/SwitchWiki){:target="_blank"}
 
 Mark 2004-02-14T02:26:02-07:00
-URL: Voodoopad at http://www.flyingmeat.com/ is a good wiki notepad for Macs, with html export. The developer is also working on an online version
+URL: Voodoopad at [flyingmeat](http://www.flyingmeat.com/){:target="_blank"} is a good wiki notepad for Macs, with html export. The developer is also working on an online version
 
 David Wilcox 2004-03-03T07:16:26-07:00
-The canonical list of wikis is at: http://www.c2.com/cgi/wiki?WikiEngines A very interesting collaborative internet medium is noosphere: http://www.c2.com/cgi/wiki?WikiEngines It is not a wiki - but it is close in the collaborative process.
+The canonical list of wikis is at: [c2](http://www.c2.com/cgi/wiki?WikiEngines){:target="_blank"}. A very interesting collaborative internet medium is noosphere: [c2](http://www.c2.com/cgi/wiki?WikiEngines){:target="_blank"} It is not a wiki - but it is close in the collaborative process.
 
 Zbigniew Lukasiak 2004-03-14T06:55:59-07:00
-The canonical list of wikis is at: http://www.c2.com/cgi/wiki?WikiEngines A very interesting collaborative internet medium http://aux.planetmath.org/noosphere/main.html It is not a wiki - but it is close in the collaborative process.
+The canonical list of wikis is at: [c2](http://www.c2.com/cgi/wiki?WikiEngines){:target="_blank"} A very interesting collaborative [internet medium](http://aux.planetmath.org/noosphere/main.html){:target="_blank"} It is not a wiki - but it is close in the collaborative process.
 
 Zbigniew Lukasiak 2004-03-14T06:58:16-07:00
 original layout

@@ -51,7 +51,7 @@ Comments
 That does not bode well for those of us with "relationships" to multiple blogs we read regularly.....
 
 Reb Yudel 2005-08-04T19:23:31-07:00
-How did the link to this blog get into the blog on server side browser. That blog does not even allow comments so that one can ask questions like that. That blog has given links to some 100 blogs that have nothing to do with server side browsing. I hope I'd be in order if I enter a link to one such blog below. http://www.newerawisp.blogspot.com
+How did the link to this blog get into the blog on server side browser. That blog does not even allow comments so that one can ask questions like that. That blog has given links to some 100 blogs that have nothing to do with server side browsing. I hope I'd be in order if I enter a link to one such [blog below](http://www.newerawisp.blogspot.com){:target="_blank"}
 
 Satish Bhardwaj 2005-09-15T13:05:53-07:00
 What about characters in books? Should I stop reading the Diskworld series?

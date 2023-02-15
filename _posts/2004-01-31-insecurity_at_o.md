@@ -17,9 +17,7 @@ I tested this out, and discovered she was correct, when I clicked "friends of fr
 
 A serious security hole? Yep.
 
-I just was shown 1137 friend and friends of friends email address, including your email address. As reported by Zephoria:
-
-http://www.zephoria.org/thoughts/archives/2004/01/30/orkut_pissyness_round_2.htm
+I just was shown 1137 friend and friends of friends email address, including your email address. As reported by [Zephoria](http://www.zephoria.org/thoughts/archives/2004/01/30/orkut_pissyness_round_2.htm){:target="_blank"}
 
 I got a lot of replies back like "What did you expect?" and "That is why I don't use my main email for Orkut".
 
@@ -97,7 +95,7 @@ Trash Averse 2004-01-31T22:31:52-07:00
 I've joined a few social networks, revealing things about myself that I don't mind if everyone reads. Things I don't want 'everyone' to know, I don't add to these networks. I also choose my communities/tribes/groups knowing everyone will be able to see my interests, and have avoided joining some I considered interesting but don't want linked to my profile. I use disposable email addresses for social groups; when weaknesses are found, I'm not disturbed by it. I think others might be though, because they might reveal more about themselves that what I did. I've changed my settings to not expose my address to everyone (I think, there's a lot of places to check). I think it's good that weaknesses are exposed, even publicly. Not picking on any particular network, but if a person found a weakness in it, and reported it to them, there's a chance it would be missed/overlooked/ignored. Perhaps there are some that would take a reported weakness about their network very seriously, probably not as many though. So by making the weaknesses public, I think it puts a fire under the developers to patch the hole. Would Orkut's hole have been patched as quickly as it was if the persons that found the hole had reported it to them instead of publicly? Maybe, maybe not. If a network does take immediate measures to patch holes as soon as they're reported, I'd think it would be nice to give them advance notification before going public with the breach. But I'm pessimistic about this, and think it probably takes threat of bad publicity to get some networks to patch. Keep up the good works; your blog is very interesting, and I've subbed your RSS in my Bloglines.
 
 Sherri 2004-02-16T05:44:11-07:00
-I also felt insecure about Orkut, I went to jail maybe because of too many friends in short time (281), but I did not receive any explanation, do not know when the jail will be open and do not know why and when it could be closed again. http://www.orkut.com/Profile.aspx?uid=13086236090759842440
+I also felt insecure about Orkut, I went to jail maybe because of too many friends in short time (281), but I did not receive any explanation, do not know when the jail will be open and do not know why and when it could be [closed again](http://www.orkut.com/Profile.aspx?uid=13086236090759842440){:target="_blank"}
 
 Jose Luis Orihuela 2004-02-16T13:29:26-07:00
 URL: Regarding your perfect vision of a social networking service: I guess one could say there maybe other features that someone else might like and visa versa. So, maybe the perfect service would allow you to pick and choose from a menu of features and services.
@@ -154,7 +152,7 @@ Abbas 2005-01-18T04:45:43-07:00
 i can not go in orkut site cus of proxy how can i passed it iam living in iran
 
 mani 2005-01-31T01:06:02-07:00
-hi mani, Access http://www.openproxies.com []'s Weber Ress
+hi mani, [Access](http://www.openproxies.com){:target="_blank"} Weber Ress
 
 Weber Ress 2005-01-31T07:37:51-07:00
 URL: give me ID in orkut

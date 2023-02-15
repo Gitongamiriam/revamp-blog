@@ -89,7 +89,7 @@ juan manuel 2005-05-09T20:52:25-07:00
 The problem with these social networking sites is that to get any benefit out of them you have to spend hours a day on the sites.
 
 Tino Buntic 2005-06-18T16:34:11-07:00
-Perhaps intentionally, you left out Care2Connect, http://Care2.com/connect. It's got a decided liberal activism bias but, given that, its a great social and dating network and you can include professional input as well. Great article otherwise!
+Perhaps intentionally, you left out [Care2Connect](http://Care2.com/connect){:target="_blank"}. It's got a decided liberal activism bias but, given that, its a great social and dating network and you can include professional input as well. Great article otherwise!
 
 Ringmaster 2005-07-21T13:24:34-07:00
 URL: I need a company that can build me a social networking platform. Can anyone give me any names in the los Angeles area?
