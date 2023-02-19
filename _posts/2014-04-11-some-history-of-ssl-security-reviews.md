@@ -2,8 +2,8 @@
 layout: post
 title:  Some History of SSL Security Reviews
 date:   2014-04-11 12:01:00 +0300
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 Regarding the Heartbleed bug, SSL and TLS vendors used to require code security reviews before CAs would accept certificate requests from that implementation.

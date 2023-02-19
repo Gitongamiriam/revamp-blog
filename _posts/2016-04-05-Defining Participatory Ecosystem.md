@@ -3,7 +3,7 @@ layout: post
 title:  Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
 date:   2016-04-05 08:23:07 +0300
 image:  Participatory.jpeg
-tags:   Home
+# tags:   Home
 ---
 
 

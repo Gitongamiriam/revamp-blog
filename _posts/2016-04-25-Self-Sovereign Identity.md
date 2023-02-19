@@ -3,7 +3,7 @@ layout: post
 title:  The Path to Self-Sovereign Identity
 date:   2016-04-25 08:07:00 +0300
 image:  self-soverreign.jpeg
-tags:   Home
+# tags:   Home
 ---
 
 

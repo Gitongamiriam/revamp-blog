@@ -3,7 +3,7 @@ layout: post
 title:  Deep Context Shared Languages
 date:   2014-06-18 08:20:58 +0300
 image:  context.jpeg
-tags:   Home
+# tags:   Home
 ---
 
     

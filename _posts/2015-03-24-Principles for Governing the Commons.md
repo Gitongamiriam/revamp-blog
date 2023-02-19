@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Introduction to Group Works and the Group Pattern Language
-date:   2014-04-29 14:51:07 +0300
-image:  06.jpg
-tags:   Home
+title:  10 Design Principles for Governing the Commons
+date:   2015-03-24 14:51:07 +0300
+image:  principlas.png
+# tags:   Home
 ---
 
 In 2009, Elinor Ostrom received the Nobel Prize in Economics for her “analysis of economic governance, especially the commons”.

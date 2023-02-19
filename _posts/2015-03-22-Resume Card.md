@@ -2,8 +2,8 @@
 layout: post
 title:  Mini Resume Card for Conference Season
 date:   2015-03-22 08:23:55 +0300
-image:  02.jpg
-tags:   Home
+image:  mini-resume.png
+# tags:   Home
 ---
 
 

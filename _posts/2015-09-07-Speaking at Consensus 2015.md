@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Speaking at Consensus 2015
-date:   2015-09-07 23:54-07 +0300
-image:  02.jpg
-tags:   Home
+date:   2015-09-06 23:54-07 +0300
+image:  consensus.png
+# tags:   Home
 ---
 
 

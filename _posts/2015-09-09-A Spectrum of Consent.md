@@ -3,7 +3,7 @@ layout: post
 title:  A Spectrum of Consent
 date:   2015-09-09 09:28-07 +0300
 image:  spectrum.png
-tags:   Home
+# tags:   Home
 ---
 
 

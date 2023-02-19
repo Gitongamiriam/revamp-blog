@@ -2,8 +2,8 @@
 layout: post
 title:  “Harmonic” on Pantheon Steel XXD Halo Hand Pan at BGIedu Intensive
 date:   2014-04-21 12:01:00 +0300
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 For the second time, I was asked to play a hand pan solo on stage at the BGIedu intensive. This time I was better prepared to make a better quality recording.
@@ -12,5 +12,11 @@ For those who want more detail, this percussion instrument is generically called
 
 This particular piece is a structured improv in 6 taking advantage of the multiple harmonics available to a single notes on the instrument depending on how you strike it, thus is titled "Harmonic".
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/qlNV22sSiw0" frameborder="0" allowfullscreen></iframe> If you like hand pans, I have an extensive playlist of good quality hand pan performances on YouTube. <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLJ0DUQTMYEC7dBN1mjI9X1L_iS20kMUoo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/qlNV22sSiw0" frameborder="0" allowfullscreen></iframe>
+
+
+If you like hand pans, I have an extensive playlist of good quality hand pan performances on YouTube. 
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLJ0DUQTMYEC7dBN1mjI9X1L_iS20kMUoo" frameborder="0" allowfullscreen></iframe>
+
 original layout
