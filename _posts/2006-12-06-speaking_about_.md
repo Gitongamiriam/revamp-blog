@@ -2,8 +2,8 @@
 layout: post
 title:  Speaking about SynchroEdit at WikiWednesday
 date:   2006-12-06 14:34:38 -0700
-image:  02.jpg
-tags:   Web/Tech
+# image:  02.jpg
+# tags:   Web/Tech
 ---
 
 	

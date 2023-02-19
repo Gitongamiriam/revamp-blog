@@ -2,8 +2,8 @@
 layout: post
 title: New Blog for Ephemera
 date: 2008-07-13 13:22:55 -0700
-image: 02.jpg
-tags: Weblogs
+image: ephemerablogthumb.png
+# tags: Weblogs
 ---
 
 

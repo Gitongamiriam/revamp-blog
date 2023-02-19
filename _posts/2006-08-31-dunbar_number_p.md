@@ -2,8 +2,8 @@
 layout: post
 title:  Dunbar Number Presentation at MeshForum 2006
 date:   2006-08-31 11:52:49 -0700
-image:  02.jpg
-tags:   Home
+image:  christopher_allen_sketch_at_meshforum_20.jpg
+# tags:   Home
 ---
 
 

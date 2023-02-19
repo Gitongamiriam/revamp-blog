@@ -2,8 +2,8 @@
 layout: post
 title:  iPhoneDevCamp and Hack-a-Thon
 date:   2007-07-08 23:19:52 -0700
-image:  02.jpg
-tags:   Games
+image:  everyone.jpg
+# tags:   Games
 ---
 
 Everyone I feel privileged and honored to have been part of the iPhoneDevCamp this last weekend. Over 380 iPhone developers came out to the Adobe Campus in San Francisco to help each other make the best possible web pages and webapps for the iPhone.

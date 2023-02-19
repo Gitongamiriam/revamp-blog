@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Introduction to the Social Web (Reading List #SW4SX)
+title:  Introduction to the Social Web (Reading List#SW4SX)
 date:   2013-04-04 14:16:52 -0700
-image:  02.jpg
-tags:   Weblogs
+# image:  02.jpg
+# tags:   Weblogs
 ---
 
 

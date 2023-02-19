@@ -2,8 +2,8 @@
 layout: post
 title:  Ratings:Who Do You Trust?
 date:   2006-09-14 16:28:58 -0700
-image:  02.jpg
-tags:   Software
+image:  shannon_appelcline.jpg
+# tags:   Software
 ---
 
 

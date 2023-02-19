@@ -2,8 +2,8 @@
 layout: post
 title:  Collective Choice:Experimenting with Ratings
 date:   2007-01-01 22:38:15 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 by Christopher Allen & Shannon Appelcline

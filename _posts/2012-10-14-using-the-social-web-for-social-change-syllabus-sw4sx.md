@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Using the Social Web for Social Change (Syllabus)
+title:  Using the Social Web for Social Change (Syllabus#SW4SX)
 date:   2012-10-14 08:44:31 -0700
-image:  02.jpg
-tags:   Web/Tech
+# image:  02.jpg
+# tags:   Web/Tech
 ---
 
 This fall with be the 4th year, and the 5th time that I've taught the class Using the Social Web for Social Change (hashtag #SW4SX) in the MBA in Sustainable Systems program at Bainbridge Graduate Institute (BGI.edu).

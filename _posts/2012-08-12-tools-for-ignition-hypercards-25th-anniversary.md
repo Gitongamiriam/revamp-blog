@@ -2,10 +2,12 @@
 layout: post
 title:  Tools for Ignition & HyperCard’s 25th Anniversary
 date:   2012-08-12 16:27:42 -0700
-image:  02.jpg
-tags:   Web/Tech
+image:  ignition.jpg
+# tags:   Web/Tech
 ---
 
+
+  
 
 Over my lifetime I have encountered a number of “tools for ignition” — a phrase which I use to describe innovative products that have empowered people and created movements. On the 25th anniversary of Hypercard’s introduction, I want to take a look back at some of these tools.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Managing your Social Graph with Google+ [Google Plus]
 date:   2011-07-14 16:29:13 -0700
-image:  02.jpg
+image:  managing.jpg
 tags:   Social
 ---
 

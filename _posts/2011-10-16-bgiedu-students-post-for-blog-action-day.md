@@ -2,8 +2,8 @@
 layout: post
 title:  BGIedu Students Post for Blog Action Day on Food
 date:   2011-10-16 17:35:27 -0700
-image:  02.jpg
-tags:   Home
+image:  BGIedu.png
+# tags:   Home
 ---
 
 Blog-action-day-food-500x250Today is Blog Action Day, where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags #FOOD and #BAD11.

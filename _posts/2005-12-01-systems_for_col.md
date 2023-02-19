@@ -2,8 +2,8 @@
 layout: post
 title:  Systems for Collective Choice
 date:   2005-12-01 16:03:26 -0700
-image:  02.jpg
-tags:   Web/Tech
+image:  peoplearoundthesun.gif
+# tags:   Web/Tech
 ---
 
 by Christopher Allen & Shannon Appelcline

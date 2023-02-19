@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Apple, AirVideo, and Immersive vs Ambient Media
+title:  Blog Action Day on Climate Change
 date:   2009-10-15 23:59:37 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 Late this evening while catching up on my feeds, I saw for the first time that this year's Blog Action Day is on the topic of Climate Change. This event is sponsored yearly by Change.org. I wish I had known earlier as this would have been a great exercise for my sustainable MBA students at BGI.edu, as they are all creating their blogs this week for my class "Using the Social Web for Social Change".

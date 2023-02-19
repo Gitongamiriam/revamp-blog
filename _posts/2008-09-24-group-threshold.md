@@ -2,8 +2,8 @@
 layout: post
 title: Community by the Numbers, Part One:Group Thresholds
 date: 2009-09-14 13:55:42 -0700
-image: 02.jpg
-tags: Home
+image: circle_of_hands.jpg
+# tags: Home
 ---
 
 Circle of Hands We often think of communities as organic creatures, which come into existence and grow on their own. However, the truth is they are fragile blossoms. Although many communities surely germinate and bloom on their own, purposefully creating communities can take a tremendous amount of hard work, and one factor their success ultimately depends upon is their numbers.

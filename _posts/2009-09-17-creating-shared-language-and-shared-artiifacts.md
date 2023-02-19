@@ -2,8 +2,8 @@
 layout: post
 title:  Creating Shared Language and Shared Artifacts
 date:   2009-09-17 01:13:10 -0700
-image:  02.jpg
-tags:   Home
+image:  poem.jpg
+# tags:   Home
 ---
 
 Poem: LanguageWe live in a world of conversation, of language; all full of words. Mastery of language requires learning the meanings of thousands of words. The average native English language speaker uses in the realm of 12,000 to 20,000 words, whereas a college graduate would use 20-25,000 words. Shakespeare actively used more then 30,000 words, and his vocabulary was estimated to be over 66,000 words. Yet there are, at the very least, a quarter of a million distinct English words, excluding inflections, and words from technical and regional vocabularies. The Oxford English dictionary defines more then 600,000 words.

@@ -2,8 +2,8 @@
 layout: post
 title:  Cultural Dimensions
 date:   2008-07-02 09:56:08 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 Geert Hofstede™ Cultural Dimensions

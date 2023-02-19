@@ -2,8 +2,8 @@
 layout: post
 title:  Teaching “Using the Social Web for Social Change” at BGI.edu
 date:   2009-09-16 22:36:27 -0700
-image:  02.jpg
-tags:   Web/Tech
+image:  Teaching.jpg
+# tags:   Web/Tech
 ---
 
 

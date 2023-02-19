@@ -2,8 +2,8 @@
 layout: post
 title:  Dunbar Number & Group Cohesion
 date:   2005-10-28 16:16:17 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 There is some more excellent research this week by Nick Yee and Nicolas Ducheneaut in the PlayOn blog. Again, their research provides good insight into social group dynamics as they appear in online games.

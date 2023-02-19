@@ -2,8 +2,8 @@
 layout: post
 title:  Collective Choice:Competitive Ranking Systems
 date:   2006-01-03 23:37:09 -0700
-image:  02.jpg
-tags:   Web/Tech
+image:  bcs_1.png
+# tags:   Web/Tech
 ---
 
 	

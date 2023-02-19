@@ -2,8 +2,8 @@
 layout: post
 title:  Using 5-Star Rating Systems
 date:   2006-08-31 11:52:49 -0700
-image:  02.jpg
-tags:   Social Software rating system
+image:  stars_1.gif
+# tags:   Social Software rating system
 ---
 
 In Collective Choice: Rating Systems I discuss ratings scales of various sorts, from eBay's 3-point scale to RPGnet's double 5-point scale, and BoardGame Geek's 10-point scale.

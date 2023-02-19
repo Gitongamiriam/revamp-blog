@@ -2,8 +2,8 @@
 layout: post
 title: Creative Commons Posts “Defining Noncommercial” Report
 date: 2009-09-14 13:55:42 -0700
-image: 02.jpg
-tags: Home
+image: Creative.jpg
+# tags: Home
 ---
 
 Creative-commons-non-commercial Last year I participated in a survey followed up by a focus group on the topic of Noncommercial Use, in particular around the context that about 2/3rds of the Creative Commons licenses extant use the NC attribute, such as in CC-BY-NC.

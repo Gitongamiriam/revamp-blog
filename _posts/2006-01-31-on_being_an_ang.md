@@ -2,8 +2,8 @@
 layout: post
 title:  On Being an Angel
 date:   2006-01-31 18:17:47 -0700
-image:  02.jpg
-tags:   Business
+# image:  02.jpg
+# tags:   Business
 ---
 
 

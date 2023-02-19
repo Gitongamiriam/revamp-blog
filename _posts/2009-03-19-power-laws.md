@@ -2,8 +2,8 @@
 layout: post
 title: Community by the Numbers, Part III:Power Laws
 date: 2009-09-14 13:55:42 -0700
-image: 02.jpg
-tags: Web/Tech
+image: community.jpg
+# tags: Web/Tech
 ---
 
 In my first article in this series I talked about community numbers: how the sizes of groups ultimately affect their success (or failure). However what I discussed only offers up the most rudimentary explanation of the dynamics, and that is because typically not all of the members of a group are equally involved.

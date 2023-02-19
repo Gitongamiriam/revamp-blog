@@ -2,8 +2,8 @@
 layout: post
 title:  Getting Ready for the iPhone
 date:   2007-06-15 20:06:45 -0700
-image:  02.jpg
-tags:   Home
+image:  watereddown.jpg
+# tags:   Home
 ---
 
 Watereddown I've been excited about the web capabilities of the upcoming iPhone for some time. As a reluctant laptop user ("oh, my aching shoulders"), there is real appeal to me in a better portable web browser. I have tried most of the PDA and cellphone browsers to date, and none offer more then a poor cousin to the web that we experience on the desktop.

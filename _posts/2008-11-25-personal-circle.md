@@ -2,8 +2,8 @@
 layout: post
 title: Community by the Numbers, Part II:Personal Circles
 date: 2009-09-14 13:55:42 -0700
-image: 02.jpg
-tags:  Software
+image: sympathy.jpg
+# tags:  Software
 ---
 
 In my previous post, I talked about the limits on sizes of tightly-knit communities. These group limits are closely related to a number of interesting personal limits, and are often confused with them.

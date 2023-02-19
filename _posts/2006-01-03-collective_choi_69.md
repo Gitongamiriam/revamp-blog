@@ -2,8 +2,8 @@
 layout: post
 title:  Collective Choice:Rating Systems
 date:   2005-07-27 16:35:17 -0700
-image:  02.jpg
-tags:   Home
+image:  bcs_1.png
+# tags:   Home
 ---
 
 by Christopher Allen & Shannon Appelcline

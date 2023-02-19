@@ -2,8 +2,8 @@
 layout: post
 title: Password Best Practices
 date:  2009-09-25 01:29:32 -0700
-image:  02.jpg
-tags:  Home
+# image:  02.jpg
+# tags:  Home
 ---
 
 Key in DoorPasswords are very important for maintaining your online identity, because they ensure that no one else can access your accounts and do things that you wouldn't do. As such, you should make sure that your online passwords are as strong as possible. This article will provide some general guidelines for doing so.

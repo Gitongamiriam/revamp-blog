@@ -2,8 +2,8 @@
 layout: post
 title:  A Relationship With Work
 date:   2011-12-27 20:28:37 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 I am a lifetime entrepreneur. Even when working for large organizations I find my approach to be entrepreneurial (what my mentor **Gifford Pinchot** would call **Intrapreneurial**).

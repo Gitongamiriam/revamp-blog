@@ -2,8 +2,8 @@
 layout: post
 title:  In Seoul for the Social Web
 date:   2008-06-25 01:18:39 -0700
-image:  02.jpg
-tags:   Home
+image:  seoul.jpg
+# tags:   Home
 ---
 
 Downtown Seoul, South Korea, from Hotel WindowI'm in Seoul, South Korea this week for the 13th Global Forum on Business Driven Action Learning and Executive Development, where I'm presenting on the topic of the how to get involved with the Social Web.

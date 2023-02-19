@@ -2,8 +2,8 @@
 layout: post
 title:  Dyads & Triads — The Smallest Teams
 date:   2013-04-04 14:16:52 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 (by Christopher Allen with Elyn Andersson and Shannon Appelcline)
