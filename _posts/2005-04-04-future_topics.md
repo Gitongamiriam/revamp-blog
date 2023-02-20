@@ -2,8 +2,8 @@
 layout: post
 title:  Future Topics
 date:   2005-04-04 01:08:16 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 

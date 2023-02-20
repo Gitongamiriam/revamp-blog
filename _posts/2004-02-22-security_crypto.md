@@ -2,8 +2,8 @@
 layout: post
 title:  Security & Cryptography:The Bad Business of Fear
 date:   2004-02-22 14:12:29 -0700
-image:  02.jpg
-tags:   Social
+# image:  02.jpg
+# tags:   Social
 ---
 
 As I head out next week to the RSA Conference I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.

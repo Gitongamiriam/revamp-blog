@@ -2,8 +2,8 @@
 layout: post
 title: Too Many Social Network Services
 date: 2004-01-30 19:20:14 -0700
-image: 02.jpg
-tags: Web/Tech
+# image: 02.jpg
+# tags: Web/Tech
 ---
 
 	

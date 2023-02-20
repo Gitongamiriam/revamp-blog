@@ -2,8 +2,8 @@
 layout: post
 title:  Great Social Networking Posts
 date:   2004-03-18 08:05:31 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 While I've been out attending the SXSW Music, Movie and Interactive Conference there has been a flurry of high-quality postings about Social Networking.
@@ -87,7 +87,7 @@ Transcript of Ridiculously Easy Group Forming.
 Transcript of Ethan Watters' talk on Urban Tribes and Social Dark Matter
 .
 Comments
-Great Post, Chris. I linked to it and added a comment. http://eureksterblog.blogspot.com/2004_03_18_eureksterblog_archive.html#107962521571269734
+Great Post, Chris. I linked to it and added a comment. <http://eureksterblog.blogspot.com/2004_03_18_eureksterblog_archive.html#107962521571269734>
 
 Peter 2004-03-18T08:21:26-07:00
 original layout

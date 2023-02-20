@@ -2,8 +2,8 @@
 layout: post
 title: Progressive Trust
 date:   2004-08-16 23:42:15 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 

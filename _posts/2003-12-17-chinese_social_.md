@@ -2,8 +2,8 @@
 layout: post
 title:  Chinese Social Network
 date:   2003-12-17 12:58:00 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 The Social Software Weblog discusses DragonVenture Invests in Social Networking Platform in China:

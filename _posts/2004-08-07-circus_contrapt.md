@@ -2,8 +2,8 @@
 layout: post
 title:  Circus Contraption in SF during August
 date:   2004-08-07 14:03:41 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 

@@ -2,8 +2,8 @@
 layout: post
 title:  Annoyed by Zero Degrees
 date:   2004-04-15 00:27:05 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 As I'm studying social network software right now, I consider it my job to try many of the hundred some odd social networks out there right now.

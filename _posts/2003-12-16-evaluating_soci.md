@@ -2,8 +2,8 @@
 layout: post
 title:  Evaluating Social Network Services
 date:   2003-12-16 15:11:56 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 After a week where I met a number of bloggers and social network / social software people, I decided to try to update my various networks at Ryze, Tribe.Net, LinkedIn, and Friendster.

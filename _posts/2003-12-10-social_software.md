@@ -2,8 +2,8 @@
 layout: post
 title:  Social Software -- Problems & the Definition of “Friends”
 date:   2003-12-10 12:35:38 -0700
-image:  02.jpg
-tags:   Web/Tech
+# image:  02.jpg
+# tags:   Web/Tech
 ---
 
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.
@@ -21,4 +21,3 @@ Last, but probably most important -- I'm not getting enough value from them for 
 All that I've joined feel just a bit off -- but yet I still believe there is something useful in Social Software to learn that I just have to puzzle out.
 
 original layout
-

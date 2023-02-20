@@ -2,8 +2,8 @@
 layout: post
 title:  User Content, Social Software & Online Games
 date:   2005-03-04-17 15:17:14 -0700
-image:  02.jpg
-tags:   Games Social Software Web/Tech
+image:  shannon.jpeg
+# tags:   Games Social Software Web/Tech
 ---
 
 ShannonShannon Appelcline, my colleague at Skotos (an online game company that I founded in 1999), has been writing for several years a sometimes weekly, sometimes bi-weekly column on the topic of game design called Trials, Triumphs & Trivialities (rss feed for all Skotos Articles including TT&T).

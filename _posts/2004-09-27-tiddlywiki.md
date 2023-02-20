@@ -2,8 +2,8 @@
 layout: post
 title: TiddlyWiki
 date:   2004-09-27 20:28:46 -0700
-image:  02.jpg
-tags:   Social Software User Interface
+# image:  02.jpg
+# tags:   Social Software User Interface
 ---
 
 I keep an eye out for new ideas in Wiki technology (see my post from February Looking at Wiki), and I recently became fascinated by TiddlyWiki. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my EditThisPagePHP, it appears to be an elegant experiment to look into the future of this medium of user-editable content.

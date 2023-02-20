@@ -2,8 +2,8 @@
 layout: post
 title: Intimacy Gradient and Other Lessons from Architecture
 date:   2004-08-26 16:56:26 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 A number of my posts have been about integrating different domains of knowledge in order to better understand how human behavior should be incorporated in the design of social software. I found The Dunbar Number in sociology, and both Four Kinds of Privacy and Progressive Trust come from my work in the cryptography field. The topic of this post comes from the field of architecture.
@@ -37,7 +37,6 @@ Entering through the refrigerator door raised the intimacy of the experience for
 The Intimacy Gradient exists in movies as well -- anywhere you see a scene taking place in a public space that transitions down through smaller and tighter shots ultimately to a closeup of a face it is much more intimate then just cutting to the closeup.
 
 In social software design, there also needs to be an Intimacy Gradient. One of the problems with Wikis is that there is often very little transition between public and intimate, and doing so can be quite jarring. SocialText, a Wiki service vendor, is aware of this problem and is "seeking to add more layers to the 'intimacy gradient', without recreating the highly structured collaboration tools that exist today". Ross Mayfield outlines this possible future Intimacy Gradient for SocialText:
-
 
 The broadest tier is a guest space, available to all
 The second tier is a knowledgebase, accessible to all employees and contractors

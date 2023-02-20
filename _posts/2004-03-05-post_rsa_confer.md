@@ -2,8 +2,8 @@
 layout: post
 title:  Post RSA Conference Wrapup
 date:   2004-03-05 03:50:41 -0700
-image:  02.jpg
-tags:   Business
+# image:  02.jpg
+# tags:   Business
 ---
 
 I spent most of last week at the RSA Conference in San Francisco.
@@ -14,7 +14,6 @@ I asked a number of random people what they thought of the conference. Some agre
 
 Every year the show is less about cryptography per se. I'm sure this has something to do with RSA's attempts to diversify as its patents expire, but I do think it reflects the state of the field. Crypto has become a standardized component of security solutions, and the biggest perceived threats are not in the privacy area.
 The hilight of the conference to me was hearing respected cryptographer Whitfield Diffie say to me that he had read my The Bad Business of Fear and that he liked it. Apparently it had been sent to him by someone at Sun who had thought that it was saying many of the things that Diffie has been saying as well. Diffie said that he had some specific criticisms, so I hope that he'll comment here someday on them.
-
 
 Caller-ID for Email
 The big announcement of the week was that Microsoft will be be releasing their own spam solution, a Caller ID for email addresses, starting this summer in HotMail and in their mail servers. Basically the way this works is that every domain holder publishes inside their DNS records the IP addresses of any valid outbound email server. This information is stored using XML in a special signed format. After a mail is sent, the receiving system queries the DNS to confirm that the outbound server is not being spoofed.
@@ -29,12 +28,10 @@ I am also concerned that all of these standards require some measure of public-k
 
 There is some good thoughtful analysis of these three standards by Larry Seltzer of eWeek in Who will Win the SMTP Authentication Wars.
 
-
 More Security in Windows XP SP2
 Bill Gates also discussed new security features in the upcoming Windows XP SP2. In addition to some interesting "Active Protection Technology" to prevent overflow attacks, he discussed built-in virus protection and an improved built-in firewall that also warns of outbound connections.
 
 Out in the hall I heard some people saying that announcement was a good basis for selling Symantec short, while others countered that Microsoft never gets these type of things right and there would always be business for Symantec. Companies that offer more minor features like preventing browser popups will be hurt. However, as these solutions are already free and ubiquitous, this is one of the few cases where I prefer for these to be in the default Microsoft install. However, I do worry for the smaller but more innovative security vendors like ZoneAlarm.
-
 
 Sessions
 Over the years the sessions at RSA have become more managerial and corporate in nature, but there were a couple of good technical sessions that I attended or friends commented on.
@@ -44,7 +41,6 @@ I was pleased by the Cryptographer's Panel response to Bill Gates' announcements
 The Cryptographer's Panel also spoke on the topic of electronic voting, and supported calls for paper ballots to supplement and verify votes cast with new electronic voting technology. Rivest cautioned "We know only too well the difficulties of securing complex electronic systems."
 
 I also heard good things about the "Hacking VM Machines" and "Analyzing Topologies of Trust" sessions, and the closing keynote by PJ O'Rouke, but I missed them -- anyone have any notes? Where there some other good sessions I missed?
-
 
 Exhibits
 The exhibit floor was again a bit droll for me. Like in previous years the floor was dominated by vendors selling rather high-end corporate systems that might have excited me more if I was in the market for one, but I was looking for less expensive systems for smaller businesses. Like last year there were lots of dedicated devices, such as firewalls, spam prevention, VPN and intrusion detection hardware, and fewer companies offering software to use with my existing hardware.

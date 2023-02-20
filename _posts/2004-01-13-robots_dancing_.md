@@ -2,8 +2,8 @@
 layout: post
 title: Robots Dancing in the Uncanny Valley, Knowledge Navigator and UI Design
 date: 2004-01-13 15:21:07 -0700
-image: 02.jpg
-tags: Web/Tech
+# image: 02.jpg
+# tags: Web/Tech
 ---
 
 

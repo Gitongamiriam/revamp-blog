@@ -2,8 +2,8 @@
 layout: post
 title: Politics with Respect
 date:   2004-08-26 16:56:26 -0700
-image:  02.jpg
-tags:   politics
+# image:  02.jpg
+# tags:   politics
 ---
 
 This is not a political blog, but like most bloggers I've been indundated with various discussions about the Bush Administration, Michael Moore, Red vs. Blue, etc. So much so that on some professional email lists we've had to ask the participants to use the text "[POLITICS]" in their subject lines so that we can filter out the overt political content.

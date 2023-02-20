@@ -13,8 +13,6 @@ If you'd like to follow along, here is a pdf copy of my presentation sides (10mb
 
 Biggest addition to what I've written about before is some discussion about different kinds of social software and what what size groups they seem to be appropriate for.
 
- 
-
 Some other posts about the Dunbar Number and group size issues:
 
 2004-03: The Dunbar Number as a Limit to Group Sizes (also some really good comments)

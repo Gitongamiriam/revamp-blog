@@ -18,8 +18,6 @@ However at best our previous article provided an overview of what should be furt
 
 As we wrote in our previous article, in comparison rating systems "the value of individual items (most frequently goods) rise or fall based upon the largely subjective judgment of individual users." Ratings systems should be clearly differentiated from the closely related ranking systems. Ratings systems have a more subjective component, while ranking systems are largely objective. Amazon, Netflix, BoardGameGeek, and even the Stock Market were offered up as examples of ratings systems. Another example of a comparison rating system, and one of the earliest that appeared on the modern Internet, is eBay. The techniques they use are now beginning to show their age.
 
- 
-
 eBay: A Failed Rating Experiment
 EbaysalesMost rating systems center around rating content, often user-contributed content, and they frequently help apply community values and acclaim to that content. However, the idea of ratings can go far beyond that narrow niche (though that will doubtless be its greatest use as the Internet continues to expand). Early Internet site, eBay, was one of the first to widely use user-submitted ratings, and it used them for a different manner: to determine the good traders on their auction site.
 
@@ -47,8 +45,6 @@ We're going to address each of these issues in turn, to offer insight into creat
 
 (As a final caveat: in some ways eBay falls closer in ultimate result to a reputation system, a topic which we'll be covering more in a few articles down the road, but its lessons learned are still entirely accurate for rating systems of all sorts.)
 
- 
-
 Granular Ratings
 Smiley In general, people want to be nice. There are exceptions to that rule, perhaps even great numbers of them, but the average, well-adjusted person would prefer to make other people happy, not sad.
 
@@ -60,18 +56,17 @@ The following table shows all the ratings for each of the two categories that RP
 
 Rpgnetsettlersreview
 
-Rating	Style	Substance	%
-1	73	210	1.8%
-2	687	590	8.2%
-3	2127	1583	23.8%
-4	3337	3242	42.2%
-5	1554	2153	23.8%
+Rating Style Substance %
+1 73 210 1.8%
+2 687 590 8.2%
+3 2127 1583 23.8%
+4 3337 3242 42.2%
+5 1554 2153 23.8%
 This evidence confirms what we'd already suspected. Only 10% of raters use the bottom two ratings in a 5-point scale, and only 2% use the bottom rating. The median of the 5-point scale is actually the fourth point, with a neat bell curve arranged around it.
 
 Because users are innately unwilling to give bad ratings, as evidenced here, useful comparison ratings truly come about only through fractional differences between good ratings. In this case, the difference between "3", "4", and "5" is meaningful, and becomes more meaningful as more ratings are entered. Eventually you can look at a ranked list of ratings and see that "4.2" is a good rating while "3.5" is not.
 
 In order to do this, however, you need enough levels of good ratings to be able to distinguish between them. eBay, only offering one positive rating, does not provide enough differentiation. RPGnet, with its three positive ratings, might. However, sites that offer a 10-point scale are the ones that really seem to be able to produce meaningful statistics. On those sites we can expect that 90% of users will choose between six different numbers, from "5" to "10", and as the number of ratings builds up, this will produce enough differentiation to be meaningful. If you have already adopted a 5-point scale, consider allowing users to select the half-points, giving users a greater ability to differentiate their ratings.
- 
 
 Distinct Ratings
 No two users are ever going to rate the same; different rating numbers will mean different things to each person. This can introduce minor discrepencies into ratings, if a single individual rates particularly low or high. However, because most ratings are eventually used for comparisons, if that low- or high-rater rates many different things, the ratings equalize. "Item A" is rated low by this person, but so is "Item B", and so they end up in the correct positions in relation to each other.
@@ -93,8 +88,6 @@ Settlers_rating_1
 2 - Extremely annoying game, won't play this ever again.
 1 - Defies description of a game. You won't catch me dead playing this. Clearly broken.
 If you offer a distinct rating listing like this, some users will still come up with their own rating ideas, but if they do, they're more likely to remember what each number means to them. For everyone else, a very clear, s rating system is the most likely to produce meaningful and consistent results. As long as users aren't puzzled by the distinction, they'll be consistent in picking the same numbers for the same rating every time.
-
- 
 
 Statistical Ratings
 The last big topic that you have to think about in creating most comparison rating systems is whether they're statistically sound.
@@ -133,8 +126,6 @@ Allow Editorial Fiat: Another method is to allow editorial fiat, where editors a
 
 The idea of adjusting ratings based on ratings bears a bit of additional discussion because it's somewhat similar to another well-knowing rating system: slashdot. Herein you have both ratings and meta-ratings. People can rate threads and articles, then other people can agree or disagree with those ratings, which in turn makes it more or less likely that the original rater will be allowed to rate in the future (depending on if people agree or disagree with his ratings). Under a more general classification, this is probably a meta-rating system based on a reputation system, so it's something we'll look at further a couple of articles down the road.
 
- 
-
 Other Issues: Bilateralism & Usefulness
 90% of the rating issues that sites will face are covered by the above. However eBay in particular raised two other issues -- bilateralism and usefulness -- that aren't as generally relevant but do deserve some consideration.
 
@@ -162,8 +153,6 @@ You also need to be careful with your user interface for ratings. Here is an exa
 
 Uselessratingui
 
- 
-
 Conclusion
 Comparison ratings are going to be an increasingly important force as the Internet continues to mature. To produce meaningful comparison ratings for your site, you need to concentrate on four important factors: granularity, specifity, sound statistics, and usefulness. And, if you offer bilateral ratings, make sure you understand the subtleties of that as well.
 
@@ -175,10 +164,14 @@ Related articles from this blog:
 2007-01: Experimenting with Ratings
 Related articles from Shannon Appelcline's Trials, Triumphs & Trivialities:
 
-#192: Managing User Creativity, Part One
-#193: Managing User Creativity, Part Two
-#196: Collective Choice: Ratings, Who Do You Trust?
-#198: Collective Choice: More Thoughts About Ratings
+## 192: Managing User Creativity, Part One
+
+## 193: Managing User Creativity, Part Two
+
+## 196: Collective Choice: Ratings, Who Do You Trust?
+
+## 198: Collective Choice: More Thoughts About Ratings
+
 Comments
 I've ran into my fair share of voting systems, but by far the worst I've ever seen is the one used at www.animenfo.com, a database of anime products with user ratings. When giving a product a rating, a user is required to also write a constructive review on the product. However, the reviews are moderated and, often, removed from the database as "unconstructive" by the limited number of moderators. The problem with this approach is that the moderators are inevitably biased. A submitted, bad rating on a product, if reviewed by a moderator who personally likes the show being rated, is often removed from the database with the claim that the review was not constructive. Perhaps not entirely related, but an example of ratings-gone-awry, all the same. -Kalle.
 
@@ -201,8 +194,7 @@ adrian Chan 2006-01-04T09:47:53-07:00
 URL: Wow, thorough and cogent. Of all of the points, one missed opportunity occured to me while reading, and that is on the EBay statistical validity criticism. The phrase 'thus one of the failures for eBay is that it tries to claim meaningfulness for users with very few ratings, where there's clearly no statistical basis' struck me as off. Human transactions are not mechanical actions - they involve situations that often matter. Hence a particular negative may really be cause for serious concern, even if there are not yet many ratings. Also, beginners are not inherantly less important than experienced traders. So though difficult, credit, or blame, is rightly awarded even on the basis of just a few transactions. Exactly how is a subject of further refinement. I have read some of the EBay dissection papers a while back. This post is far more comprehensive, that is wide ranging, and yet not missing clarity, accuracy or nuance. Master work.
 
 Brian Hamlin 2006-05-30T00:43:49-07:00
-I have an interesting brainstorm for you about the netflix challenge 
+I have an interesting brainstorm for you about the netflix challenge
 
 thinksketch 2009-03-03T18:56:13-07:00
 original layout
-

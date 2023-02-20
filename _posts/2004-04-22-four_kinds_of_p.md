@@ -2,8 +2,8 @@
 layout: post
 title:  Four Kinds of Privacy
 date:   2004-04-22 02:00:51 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 I've been thinking about the nature of privacy a lot lately.

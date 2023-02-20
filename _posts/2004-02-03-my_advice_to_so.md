@@ -2,8 +2,8 @@
 layout: post
 title:  My Advice to Social Networking Services
 date:   2004-02-03 11:39:47 -0700
-image:  02.jpg
-tags:   Software
+# image:  02.jpg
+# tags:   Software
 ---
 
 I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I've not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my recent experiences with Orkut.com, and my evaluation and followup on various social networking services in December.

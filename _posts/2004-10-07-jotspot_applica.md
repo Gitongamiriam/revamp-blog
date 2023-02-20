@@ -2,8 +2,8 @@
 layout: post
 title: JotSpot:Application Wiki
 date:   2004-10-07 00:39:29 -0700
-image:  02.jpg
-tags:   Social
+# image:  02.jpg
+# tags:   Social
 ---
 
 

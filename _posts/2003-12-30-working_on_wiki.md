@@ -2,8 +2,8 @@
 layout: post
 title: Working on Wiki Design Patterns
 date: 2003-12-30 16:40:52 -0700
-image: 02.jpg
-tags: Social Software Web/Tech Wiki
+# image: 02.jpg
+# tags: Social Software Web/Tech Wiki
 ---
 
 I've been working today on understand the Design Pattern Language behind the Wiki concept. I've been making some postings at the Meatball Wiki site on this topic. These are the new topics that I have finished today.

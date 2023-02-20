@@ -18,8 +18,6 @@ Before any analysis can occur, however, there is a need for a categorization of 
 
 Broadly, there seem to be three methods of collective choice, divided by the intended result: selection, opinion, or comparison.
 
- 
-
 Selection Systems
 Selection systems allow for the purposeful choice between multiple items. There are many types of selection systems, but two in particular, representative systems, deliberative systems, and consensus systems are worth noting.
 
@@ -55,7 +53,7 @@ Deliberative Systems: In a deliberative system, individuals directly make a deci
 
 In the United States the best known deliberative system is the initiative system found in some states, including California. It allows for issues to be put directly before the voters through the submission of sufficient signatures, and then allows the voters to pass or fail those issues, based on either plurality (most votes), majority (at least 50% of votes), or else super majority (some percentage of votes in excess of 51%). In California, for example, 66% approval is required for new tax initiatives.
 
-Constitution_signingThe United States constitution defines a large and very complex deliberative system. It creates three bodies of government to support deliberation and voting, and uses a checks and balances systems in order to allow different branches to have different effects upon a vote. The main voting is done by the legislature, which requires two pluralities from two different groups of people to pass a vote. Then the executive branch has a singular opportunity to veto legislature, which then requires a super majority (here, 66%) to override that veto. Once a law is established, the judicial department may by plurality vote to declare that legislation unconstitutional, but that may be overcome by an even greater super majority (typically, 66% of each legislature + 75% of the state governments) who want to amend the constitution. 
+Constitution_signingThe United States constitution defines a large and very complex deliberative system. It creates three bodies of government to support deliberation and voting, and uses a checks and balances systems in order to allow different branches to have different effects upon a vote. The main voting is done by the legislature, which requires two pluralities from two different groups of people to pass a vote. Then the executive branch has a singular opportunity to veto legislature, which then requires a super majority (here, 66%) to override that veto. Once a law is established, the judicial department may by plurality vote to declare that legislation unconstitutional, but that may be overcome by an even greater super majority (typically, 66% of each legislature + 75% of the state governments) who want to amend the constitution.
 
 The constitution also shows how deliberation can span beyond simple voting because of the fact that it includes specific rules for how to debate, when debate can be closed, etc. In today's very fractured congress, however, it's unclear if individuals ever are actually swayed by deliberations in the floor of the legislature, or if they've already decided to follow their party lines or their specific interests, long before they entered the Capitol buildings.
 
@@ -72,8 +70,6 @@ Members of the Cabinet are collectively seen as responsible for government polic
 Quaker-based consensus offers a similar example. Herein a facilitator helps to identify disagreements and agreements to move a discussion forward until an end result is embraced by all individuals.
 
 As a final note, it's important to differentiate consensus from coercion. The end result of unanimity isn't the sole definition of a consensus system, nor is it entirely required. What is required is a more open and thoughtful selection process.
-
- 
 
 Opinion Systems
 Opinion systems are a clear subsidiary category to selection systems. An opinion system's main use is as a decision indicator, to show how people will decide or did decide in a representative system, a deliberative system, or both. Current opinion systems tend to be oriented toward actual votes, as opposed to more freeform selection systems (though the delphic polling system shows a more freeform version of the category itself). Opinion systems tend to be push-based (meaning people are asked for their opinions rather than actively offering them), but this isn't required.
@@ -95,8 +91,6 @@ When conducted & matched correctly, exit polls are supposed to be quite reliable
 Delphiamphitheatre Delphic Polling Systems: An interesting polling method applicable to all sorts of opinion systems is the "delphi poll". This is a specific method of polling which is iterative and anonymous and which supports confidence ratings and feedback. The general idea is that people are polled on a question using not just binary responses, but a full confidence rating (e.g., you would state that you are 60% sure that Bush would be elected, rather than stating that you think Bush would be elected). After polls are collected, the anonymous results--or at least a summary of those results--are shared with the participants, who then poll again. This iterative process continues until a consistent answer is settled upon. By incorporating feedback into the polling process there's the possibility for greatly increased reliability.
 
 In some ways delphic polling systems can be seen as an analogy to consensus systems, since both involve more iterative processes that eventually result in a more commonly-held decision.
-
- 
 
 Comparison Systems
 Comparison systems allow individual items to be measured up against each other. There are three general categories: comparison ranking systems, which are largely objective and which typically rank people; and comparison rating systems, which more often mix subjective and objective opinions, and which more frequently rate things; and reputation rating systems, which again tend to rank people, but also have a subject and objective mix.
@@ -127,8 +121,6 @@ Reputation Systems: Finally, reputation systems are very similar to ranking syst
 
 The goal of a reputation system is ultimately to create a trust metric that often allows different users access to different powers. We'll be covering reputation systems a bit more thoroughly in a couple of weeks.
 
- 
-
 Conclusion
 There are a variety of ways to measure the collective choices of a large group of people. We've outline nine here: representative, deliberative, and consensus selection systems; ranking, rating, and reputation comparison systems; and three varieties of opinion systems. When developing social software it is important to understand the difference between these broad categories of systems and to use lessons already learned from the appropriate category in your own social software designs.
 
@@ -140,10 +132,14 @@ Related articles from this blog:
 2007-01: Experimenting with Ratings
 Related articles from Shannon Appelcline's Trials, Triumphs & Trivialities:
 
-#192: Managing User Creativity, Part One
-#193: Managing User Creativity, Part Two
-#196: Collective Choice: Ratings, Who Do You Trust?
-#198: Collective Choice: More Thoughts About Ratings
+## 192: Managing User Creativity, Part One
+
+## 193: Managing User Creativity, Part Two
+
+## 196: Collective Choice: Ratings, Who Do You Trust?
+
+## 198: Collective Choice: More Thoughts About Ratings
+
 Comments
 You seemed to leave out consensus methods such as the Quakers and facilitated decision making processes.
 

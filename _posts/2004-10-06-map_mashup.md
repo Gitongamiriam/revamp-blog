@@ -2,8 +2,8 @@
 layout: post
 title: Map Mashup
 date:   2004-10-07 00:39:29 -0700
-image:  02.jpg
-tags:   UserInterface
+image:  mapmashup_1.gif
+# tags:   UserInterface
 ---
 
 

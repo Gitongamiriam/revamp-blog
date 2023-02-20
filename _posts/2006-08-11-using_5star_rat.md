@@ -8,8 +8,6 @@ image:  stars_1.gif
 
 In Collective Choice: Rating Systems I discuss ratings scales of various sorts, from eBay's 3-point scale to RPGnet's double 5-point scale, and BoardGame Geek's 10-point scale.
 
-
-
 Of the various ratings scales, 5-point scales are probably the most common on the Internet. You can find them not just in my own RPGnet, but also on Amazon, Netflix, and iTunes, as well as many other sites and services. Unfortunately 5-point rating scales also face many challenges in their use, and different studies suggest different flaws with this particular methodology.
 
 First, one study using Amazon data has shown that many undetailed ratings (where the rater isn't required to add any additional information other than the rating they select) show a bimodal distribution.  In other words the distribution of ratings tends to cluster around two different numbers (e.g., 1 and 5) rather than offering a normal distribution where the ratings cluster around a single height (e.g., 3). Thus the median of these ratings is not an accurate reflection of product quality, but instead is a statement of conflicting opinions.
@@ -37,15 +35,14 @@ Apple's iTunes software offers you the ability to rate individual songs with a 0
 
 After Shannon and I wrote our Rating Systems article, I examined the ratings in my iTunes catalog. Using the Alastair's fabulous XLST iTunes rating statistics tool, I discovered that the ratings I created in iTunes clearly were biased overly high, matching the pattern we'd described. I had far too many songs rated with 4 Stars, and almost nothing rated 1 or 2. This made my ratings less useful.
 
-
 Here are some statistics from your iTunes Library: 4172 tracks, 412 (10%) rated
- 	Cumulative % of Rated
-Number	% of rated	Actual	Target	Shortfall
-Tracks rated 5 stars:	112	27	27	5	-22
-Tracks rated 4 stars:	183	44	72	15	-57
-Tracks rated 3 stars:	92	22	94	50	-44
-Tracks rated 2 stars:	22	5	99	90	-9
-Tracks rated 1 stars:	3	1	100
+  Cumulative % of Rated
+Number % of rated Actual Target Shortfall
+Tracks rated 5 stars: 112 27 27 5 -22
+Tracks rated 4 stars: 183 44 72 15 -57
+Tracks rated 3 stars: 92 22 94 50 -44
+Tracks rated 2 stars: 22 5 99 90 -9
+Tracks rated 1 stars: 3 1 100
 So over the last few months I've completely revamped my iTunes ratings. Since I can't change the user interface, I've changed my behavior. I'm also taking advantage of two other fields: "checked" which I use to give more distinctiveness to my ratings, and "play count" which shows whether or not I've listened to something through to the end.
 
 Here are the criteria I used:
@@ -74,15 +71,14 @@ Unrated & Unlistened Myrating_0_checked, play count=0: This is the default when 
 
 Modifying my rating system in this way has caused my average rating for music to change from around 4 to somewhere between 2 and 3. It will probably, over time, become closer to 2 as I rate more of my collection. This gives me a lot of distinctiveness so that I can create Smart Playlists that work well for me.
 
-
 Here are some statistics from your iTunes Library: 6519 tracks, 726 (11%) rated
- 	Cumulative % of Rated
-Number	% of rated	Actual	Target	Shortfall
-Tracks rated 5 stars:	74	10	10	5	-5
-Tracks rated 4 stars:	144	20	30	15	-15
-Tracks rated 3 stars:	211	29	59	50	-9
-Tracks rated 2 stars:	270	37	96	90	-6
-Tracks rated 1 stars:	27	4	100
+  Cumulative % of Rated
+Number % of rated Actual Target Shortfall
+Tracks rated 5 stars: 74 10 10 5 -5
+Tracks rated 4 stars: 144 20 30 15 -15
+Tracks rated 3 stars: 211 29 59 50 -9
+Tracks rated 2 stars: 270 37 96 90 -6
+Tracks rated 1 stars: 27 4 100
 Obviously rating a large music collection can become a chore -- you don't want to spend your limited music listening time always fine tuning your ratings. So I have some approaches that make it easier for me to rate my music with less effort:
 
 First, I sorted my catalog by my old ratings, and modified everything down by 1, Starting with everything rated 2 becoming 1, 3 becoming 2, etc. This gave me a good base to start with
@@ -135,12 +131,16 @@ Related articles from this blog:
 2007-01: Experimenting with Ratings
 Related articles from Shannon Appelcline's Trials, Triumphs & Trivialities:
 
-#192: Managing User Creativity, Part One
-#193: Managing User Creativity, Part Two
-#196: Collective Choice: Ratings, Who Do You Trust?
-#198: Collective Choice: More Thoughts About Ratings
+## 192: Managing User Creativity, Part One
+
+## 193: Managing User Creativity, Part Two
+
+## 196: Collective Choice: Ratings, Who Do You Trust?
+
+## 198: Collective Choice: More Thoughts About Ratings
+
 Comments
-See http://web.archive.org/web/20010207224515/http://people.delphi.com/mike100000/p5summary.html#summary (or click my name below) for a summary of all the votes for the B5 Series. Averaging all episodes you get a mean score of 8.19 with a standard deviation of 0.84 - a *very* narrow range. Context and Motivation matter more than scale in getting reusable scores out of rating systems. As I like to tell the folks here at Yahoo! – the person creating the rating has to get something out of the transaction other than just altruism.
+See <http://web.archive.org/web/20010207224515/http://people.delphi.com/mike100000/p5summary.html#summary> (or click my name below) for a summary of all the votes for the B5 Series. Averaging all episodes you get a mean score of 8.19 with a standard deviation of 0.84 - a *very* narrow range. Context and Motivation matter more than scale in getting reusable scores out of rating systems. As I like to tell the folks here at Yahoo! – the person creating the rating has to get something out of the transaction other than just altruism.
 
 F. Randall Farmer 2006-08-11T09:49:28-07:00
 I thought the issue, like Randy Farmer suggests, was that only positive discrete scales always tend to their maximum. The problem then in rating systems, like you mentioned I think earlier, is that readers have to interpret what the real norm and limits are. Even if every rating is in the upper quartile. You may want to check out what I did in [Playerep](http://www.playerep.com){:target="_blank"}, where the rating system is based on election but not a fixed scale (always norming to zero without influence). FWIW. Thanks. Adam
@@ -159,4 +159,3 @@ URL: Thanks for writing this article. I found another view on 5 point music rati
 
 Jonathan 2008-02-06T00:33:36-07:00
 original layout
-

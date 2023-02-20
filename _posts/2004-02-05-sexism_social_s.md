@@ -2,8 +2,8 @@
 layout: post
 title:  Sexism, Social Software & the Blogospher
 date:   2004-02-05 14:37:38 -0700
-image:  02.jpg
-tags:   society  
+# image:  02.jpg
+# tags:   society  
 ---
 
 A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:
@@ -16,7 +16,6 @@ In my mind, I was cracking on the phenomenon of me being linked to so many other
 However, by using language that divided up men and women in terms of visual appeal or attractiveness, I totally slipped over the line. What might be taken as irreverant and ironic by my "real" friends, who are probably somewhat likely to give me the benefit of the doubt and have other inputs to use in order to judge my character or values, in this context managed to hurt danah's feelings: the last thing I would have wanted to do.
 
 What I crossed over into was that "unwelcome gaze" issue, not unlike in one of danah's earliest posts to misbehaving in which she wrote about being invited to a coed hot-tub party by a professional colleague and finding that uncomfortable as well.
-
 
 In Apophenia "Publically Processing Hurt, Dana responds:
 Don't get me wrong: i'm not screamingly upset. Frankly, i was far more nervous and concerned about posting the damn thing than going through the situation. But i wanted to lay out the experience, the emotions for others to read and understand. Not because i had worried myself sick or magnified the situation out of proportion. It was a situation, it would pass, but maybe some good would come out of posting it for others to see. It is the raw emotions, the logic in our heads that bring us to a situation. We rarely make this visible. For those who don't understand, the goal isn't to give you fodder to attack. Instead, try understanding what life from my perspective might look like.

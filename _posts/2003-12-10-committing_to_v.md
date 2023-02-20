@@ -2,8 +2,8 @@
 layout: post
 title:  Committing to Vonage
 date:   2003-12-10 14:39:21 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 In September I signed up for Vonage, a VoIP (Voice-over-IP) service that using SIP (Session Initiation Protocol) that allows you to connect using the net to the analog POTS (Plain Old Telephone System) quite economically.

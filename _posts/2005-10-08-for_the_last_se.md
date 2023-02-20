@@ -2,8 +2,8 @@
 layout: post
 title:  SynchroEdit:Simultaneous Editing for the Web
 date:   2005-10-28 16:16:17 -0700
-image:  02.jpg
-tags:   Home
+image:  synchroeditmac.png
+# tags:   Home
 ---
 
 For the last several months I've been working on a new open source project that I've been calling SynchroEdit. SynchroEdit is a browser-based simultaneous multiuser editor, useful for "same-time" collaboration.

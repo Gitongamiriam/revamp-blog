@@ -2,8 +2,8 @@
 layout: post
 title:  Apple, AirVideo, and Immersive vs Ambient Media
 date:   2005-05-10 12:25:27 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 I was reading on Slashdot a discussion about iTune 4.8 and its new capability to purchase videos from the iTunes Music Store, when I read two things that just made me say "duh" with their obviousness, yet I'd never thought of them before.
@@ -57,16 +57,16 @@ Trevor 2005-05-10T20:20:42-07:00
 URL: the ambient and immersive stuff is very similar, if not the same as, some of mcluhan's theories on media
 
 Jeff 2005-05-10T20:33:54-07:00
-Simpsons Did It! ...errr... I mean... Sony. x2 read... exhibit A) The Location Free Television - http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?ProductSKU=LFX5&Dept=tvvideo&CategoryName=tv_LocationFreeTVs exhibit B) Media Roomlink - Which was an older product as well.. http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CategoryName=acc_PCAccessories_roomlink&ProductSKU=VGPMR100U&INT=sstyle-cpu_accessories-catpfeature-VGPMR100U
+Simpsons Did It! ...errr... I mean... Sony. x2 read... exhibit A) The Location Free Television - <http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?ProductSKU=LFX5&Dept=tvvideo&CategoryName=tv_LocationFreeTVs> exhibit B) Media Roomlink - Which was an older product as well.. <http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CategoryName=acc_PCAccessories_roomlink&ProductSKU=VGPMR100U&INT=sstyle-cpu_accessories-catpfeature-VGPMR100U>
 
 Dranore 2005-05-10T20:47:38-07:00
 The "ambient vs immersive" stuff is not new - it was what Steve Jobs called "background vs foreground activity", a point he made when called to comment on the possibility of video iPods, about a year ago or so. (That said, this is an important and useful rule.) As for this paragraph: "And the iPod is not repeat not gonna say it one more time not meant to be a video-playback device. It’s not even remotely designed for it. The iPod has a tiny hard drive that’s designed for embedded applications, and a 32 MB (I think it is) RAM buffer cache that’s optimized for dealing with song-sized chunks of data. That’s about 4 MB. Even a half hour of HD content is gonna be half a gigabyte. There’s basically no way for the iPod to play that without constantly keeping the hard drive running, and that will burn out the drive very quickly. Seriously, under constant use, the iPod hard drives’ life spans are measured in tens of hours." Disclosures: 1. I couldn't care less about a video iPod at the moment 2. I don't think these have a chance of success as it is But, that said, why's he mentioning HD along with the iPod? Do I *have* to view the videos on my iPod in my HD format? What's wrong with compressed/lossy formats? Do you *have* to listen to your tunes in uncompressed (WAV/AIFF) format when using your iPod? Sure, we won't achieve tiny filesizes when compressing video, but we won't be near HD-territory either. If you take this under consideration, this argument of his carries much less weight.
 
 Konstantinos 2005-05-10T21:18:28-07:00
-I've not purchased one, but now I'm quite curious about the level of movie immersiveness when using the Sony PSP http://www.us.playstation.com/psp.aspx -- Sony is reportedly going to be offering 70+ movies for the PSP. If the experience is sufficiently immersive, then maybe that is the form factor for a "video iPod".
+I've not purchased one, but now I'm quite curious about the level of movie immersiveness when using the Sony PSP <http://www.us.playstation.com/psp.aspx> -- Sony is reportedly going to be offering 70+ movies for the PSP. If the experience is sufficiently immersive, then maybe that is the form factor for a "video iPod".
 
 Christopher Allen 2005-05-10T23:00:16-07:00
-URL: ok, let´s put two and two together then. see here: http://www.macobserver.com/article/2005/05/10.18.shtml and then you know: instead of vidpod, think vidpad. this also explains why the first h.264 videos (consider them test videos) are being run through itunes (not iphoto) - it's well integrated with airport...
+URL: ok, let´s put two and two together then. see here: <http://www.macobserver.com/article/2005/05/10.18.shtml> and then you know: instead of vidpod, think vidpad. this also explains why the first h.264 videos (consider them test videos) are being run through itunes (not iphoto) - it's well integrated with airport...
 
 Philip R 2005-05-11T00:01:11-07:00
 You don't have to watch videos on your videom iPod in HD, but files compressed down to iPod file size (< 10Mb) are going to be really, really crappy for any non-trivial piece. I watched an iTMS video in small size and frankly, it was a chore. One thing interested me: "We sell products to people who want them to work." Hm. Apple certainly sells iPods to people who want them to work. I reckon there's a large percentage of Mac owners who are power users, as compared to Wintel PCs and iPods (even ignoring the business space - we're just talking consumers here).
@@ -81,10 +81,10 @@ Jough Dempsey 2005-05-11T13:10:40-07:00
 Portable video has a mass appeal and not just to alpha geeks, but the ambient/immersive distinction does make sense. Would also be nice if it had better games them pong!
 
 Timewarp 2005-05-11T23:18:55-07:00
-Whether Apple will choose to go there in the near future, I don't know, but as for this statement: "You sit down and you watch it, and you don’t do anything else until it’s over. That’s a totally different interaction model than music." I think this is a little short sited, all told. The reason we have that model is that we've never had portable video devices. There are already ways to extract information from our environments with digital cameras [1], why should we assume there will be no new applications of portable video? [1] http://www.hpl.hp.com/news/2004/apr-jun/beyond_film.html
+Whether Apple will choose to go there in the near future, I don't know, but as for this statement: "You sit down and you watch it, and you don’t do anything else until it’s over. That’s a totally different interaction model than music." I think this is a little short sited, all told. The reason we have that model is that we've never had portable video devices. There are already ways to extract information from our environments with digital cameras [1], why should we assume there will be no new applications of portable video? [1] <http://www.hpl.hp.com/news/2004/apr-jun/beyond_film.html>
 
 Patrick Hall 2005-05-12T20:34:24-07:00
-I hope this blog does not mind I 've a put an extended post at http://blog.startup.gr/blog/_archives/2005/9/10/1214941.html which can serve as a comment on this post. Have a look
+I hope this blog does not mind I 've a put an extended post at <http://blog.startup.gr/blog/_archives/2005/9/10/1214941.html> which can serve as a comment on this post. Have a look
 
 startup 2005-09-10T04:30:02-07:00
 original layout

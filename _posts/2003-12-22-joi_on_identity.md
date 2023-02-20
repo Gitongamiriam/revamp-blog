@@ -2,8 +2,8 @@
 layout: post
 title: Joi on Identity and Size of Networks
 date: 2003-12-22 17:52:48 -0700
-image: 02.jpg
-tags: Web/Tech
+# image: 02.jpg
+# tags: Web/Tech
 ---
 
 Joi Ito's Web: Blogger's block, collapsing facets and the number 150 offers some insights on two different topics:

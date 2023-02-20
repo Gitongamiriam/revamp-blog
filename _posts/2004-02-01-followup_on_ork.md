@@ -2,8 +2,8 @@
 layout: post
 title:  Followup on Orkut
 date:   2004-02-01 13:21:13 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 I've read of emails, Orkut messages, and blog postings since my post yesterday, so I thought I would share some with you.

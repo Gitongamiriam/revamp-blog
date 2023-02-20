@@ -2,8 +2,8 @@
 layout: post
 title:  eVentor -- an eBay for Events
 date:   2003-12-11 15:45:48 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 I have been working the last couple of weeks on a business plan idea for a company tenatively called eVentor:

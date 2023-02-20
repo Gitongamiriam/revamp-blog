@@ -2,8 +2,8 @@
 layout: post
 title:  Fascinated by Melding of Ethnic Music Styles
 date:   2003-12-09 15:32:24 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 I'm fascinated by the melding of various ethic music styles with contemporary music, in particular, when the mix includes some middle-eastern or central-european infuences.

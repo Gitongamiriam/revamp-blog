@@ -2,8 +2,8 @@
 layout: post
 title:  Comics, The Right Number, Bit Pass, and the Future of Micropayments
 date:   2003-07-03 17:16:38 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 Scott McCloud, a very smart comic book artist and author of the fantastic book "Understanding Comics" has been trying for a number of years to both reinvent comics but also has been experimenting with how the medium of the Web transforms the comic medium. In addition, he has been an advocate for exploring new business models for comic book artists.

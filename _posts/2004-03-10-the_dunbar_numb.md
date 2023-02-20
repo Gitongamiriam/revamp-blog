@@ -2,8 +2,8 @@
 layout: post
 title:  The Dunbar Number as a Limit to Group Sizes
 date:   2004-03-10 14:17:52 -0700
-image:  02.jpg
-tags:   Web/Tech
+# image:  02.jpg
+# tags:   Web/Tech
 ---
 
 Lately I've been noticing the spread of a meme regarding "Dunbar's Number" of 150 that I believe is misunderstanding of his ideas.
@@ -15,7 +15,6 @@ Dunbar is an anthropologist at the University College of London, who wrote a pap
 
 Dunbar supports this hypothesis through studies by a number of field anthropologists. These studies measure the group size of a variety of different primates; Dunbar then correlate those group sizes to the brain sizes of the primates to produce a mathematical formula for how the two correspond. Using his formula, which is based on 36 primates, he predicts that 147.8 is the "mean group size" for humans, which matches census data on various village and tribe sizes in many cultures. The following chart shows the distribution produced by Dunbar's analysis:
 
-
 Source: Boston Consulting Group
 
 This number of 150 has become "Dunbar's Number" and has been popularized by various very popular business books such as Malcolm Gladwell's The Tipping Point: How Little Things Can Make a Big Difference (summary), Duncan J. Watts' Six Degrees: The Science of a Connected Age (review) and Small Worlds: The Dynamics of Networks between Order and Randomness (review), and Mark Buchanan's Nexus: Small Worlds and the Groundbreaking Science of Networks (review), the ideas from which are the foundation of the various Social Network Services that I've discussed elsewhere in this blog.
@@ -23,10 +22,10 @@ This number of 150 has become "Dunbar's Number" and has been popularized by vari
 Revisiting Dunbar's Number
 Lately, Dunbar's number has been taken as a mean size for online networks and groups, as shown in Ross Mayfield's Weblog, where he states:
 
-Network	Size	Description	Distribution
-Political Network	~1000s	Blogs as mass media	Power-law (scale-free)
-Social Network	~150	Blogging Classic	Bell-curve (random)
-Creative Network	~12	Blogs as dinner conversation	Dense (equal)
+Network Size Description Distribution
+Political Network ~1000s Blogs as mass media Power-law (scale-free)
+Social Network ~150 Blogging Classic Bell-curve (random)
+Creative Network ~12 Blogs as dinner conversation Dense (equal)
 However, Dunbar's work itself suggests that a community size of 150 will not be a mean for a community unless it is highly incentivized to remain together. We can see hints of this in Dunbar's description of the number and what it means:
 
 The group size predicted for modern humans by equation (1) would require as much as 42% of the total time budget to be devoted to social grooming.
@@ -73,8 +72,6 @@ In my experience the smallest viable group size seems to be somewhere in the ran
 
 Looking smaller, we see that a group of 2 can be tremendously creative (ask any parent), but often has insufficient resources and thus requires deep commitment by both parties. Notably, often the difficulty of a 2-person business partnership is compared to that of a marriage. A group of 3 is often unstable, with one person feeling left out, or else one person controlling the others by being the "split" vote. A group of 4 often devolves into two pairs.
 
- 
-
 In my opinion it is at 5 that the feeling of "team" really starts. At 5 to 8 people, you can have a meeting where everyone can speak out about what the entire group is doing, and everyone feels highly empowered. However, at 9 to 12 people this begins to break down -- not enough "attention" is given to everyone and meetings risk becoming either too noisy, too boring, too long, or some combination thereof. Although I've been unable to find the source, I've heard of some references to a study from the 1950s that says that the optimum size for a committee is 7. Likewise, it's fairly easy for us to see and agree that a dinner party starts to break down somewhere above 7 or 8 people, as do also tabletop games of both the strategic (I prefer 5) and role-playing varieties (I prefer 7). These size limits can be overcome, but require increased amounts of "grooming".
 
 The chasm that starts somewhere between 9 to 12 people can be especially daunting for a small business. As you grow past 12 or so employees, you must start specializing and having departments and direct reports; however, you are not quite large enough for this to be efficient, and thus much employee time that you put toward management tasks is wasted. Only as you approach and pass 25 people does having simple departments and managers begin to work again, as it starts to really make sense for department heads to spend significant time just communicating and coordinating (and as individual departments become large enough to once again allow for the dynamic exchange of ideas that had previously occurred in the original 5-9 member seed group).
@@ -86,7 +83,6 @@ The following chart shows anecdotal satisfaction ratings for these lower group s
 Group Satisfaction
 
 Much of this is probably predicted by Dunbar's model, if you add in the non-survival and dispursed community modifiers that I discuss here. Essentially, as we increase group sizes beyond 80, to 150, 200, or even 350-500, we typically do so by breaking larger groups down into smaller ones, and continually reducing community sizes down to the point where they can be understood and managed by people -- and so efficiency reasserts itself.
-
 
 Since this post was originally posted, I have added a number of other posts about the Dunbar Number and group size issues:
 

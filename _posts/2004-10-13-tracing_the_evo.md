@@ -2,8 +2,8 @@
 layout: post
 title: Tracing the Evolution of Social Software
 date:   2004-10-13 23:40:10 -0700
-image:  02.jpg
-tags:   Social Software Web/Tech
+image:  evolution.jpg
+# tags:   Social Software Web/Tech
 ---
 
 Evolution
@@ -63,7 +63,6 @@ The use of this term swiftly become quite generic, and was used by all the major
 
 1970s — Electronic Information Exchange System (EIES)
 
-
 Yet the number of successful product lines bearing the tag 'office automation' did mean that there was increased research money for creating new tools. One of the most important was a project called Electronic Information Exchange System (EIES), which had funding from for-profit companies like IBM and AT&T, non-profit foundations like the Annenberg Trust, and governmental agencies like NSF and the New Jersey Commission of Science and Technology.
 
 EIES was the first major implementation of collaborative software. In a paper from 1972, EIES founder Murray Turoff describes an early version of EIES:
@@ -91,11 +90,10 @@ I have long preferred this definition for two reasons -- first, the word intenti
 
 There were a number of other definitions during that period:
 
-   
 Doug Engelbart — "A co-evolving human-tool system."
-       
+
 David Coleman — "Computer-mediated collaboration that increases the productivity or functionality of person-to-person processes."
-       
+
 C.A. 'Skip' Ellis - - "Computer-based systems that support groups of people engaged in a common task (or goal) and that provide an interface to a shared environment."
 Very swiftly, the term 'groupware' was adopted by the EIES community, as well as many of the spinoff software that was developed in the early 80's. However, the term was not broadly adopted outside of this community for some time.
 
@@ -103,8 +101,6 @@ Very swiftly, the term 'groupware' was adopted by the EIES community, as well as
 Meanwhile, the academic community was not happy with either the term 'office automation' or 'groupware' for research into how groups use computers to collaborate.
 
 After the failure of an ACM conference on Office Automation, MIT's Irene Greif and DEC's Paul Cashman coined the term CSCW for a workshop held in 1984, which was followed by the first CSCW conference in 1986. There is still an annual CSCW Conference, which this year is being held in Chicago on November 6-10th.
-
-
 
 The people initially involved with this conference came from either Human Computer Interaction (HCI) background or Information Systems (IS) background, thus the different definitions for the second 'C' in 'CSCW'; the HCI people preferred the small team focused 'cooperative', whereas the IS people chose the broader 'collaborative'. Scott Schopieray has a nice diagram about this on the right.
 
@@ -118,20 +114,16 @@ Brian Wilson defined it as:
 
 However, most definitions I've seen compare it to groupware:
 
-   
 Applied Informatics and Distributed Systems Group at Technische Universitat Munchen — "While Groupware refers to the real computer-based systems, the notion CSCW means the study of tools and techniques of Groupware as well as their psychological, social and organizational effects."
-       
+
 Tom Brink — "Groupware is often used to specifically denote the technology that people use to work together, whereas CSCW refers to the field that studies the use of that technology."
 This term never really was adopted by anyone except the academic community, and even now, there are many that prefer different terms, such as 'social computing' or 'coordination science'. danah boyd offered this comment to me in an email:
 
 "In the Computer Supported Cooperative Work (CSCW) space (those who address this area in academia), one switch has been to 'social computing' and the move was far more intentional. CSCW comes out of Human-Computer Interaction (HCI) paradigm.  By and large, HCI has been strongly associated with quantitative psychology in terms of methods.
 
- 
-
 Groupware and collaborative software have a heavy handed connotation of 'work' (deeply connected to HCI's emphasis on activity theory).  While CSCW has the term work directly embedded in it, there's a strong push towards other aspects of social life.  Qualitative approaches have been infused into HCI and HCI practitioners are drawing heavily from sociology and anthropology, focusing directly on everyday social life. [This move may also be a purposeful move towards Marx, but maybe i'm reading too far into things.]"
 
 1990's — Groupware (Part 2)
-
 
 Meanwhile, the term 'groupware' hit the mainstream in 1988, when Robert Johansen wrote the best-selling business book Groupware: Computer Support for Business Teams. One unique contribution that Johansen's book offered was a distinction between time and place for different types of collaboration. See the diagram on the right for some detail.
 
@@ -209,7 +201,6 @@ Second, the phrase social computing could describe a really interesting domain, 
 
 2000s — Changing Definitions of Social Software
 
-
 An early definition by Clay for the definition of social software was:
 
 "1. Social software treats triads of people differently than pairs.
@@ -262,7 +253,7 @@ Tom 2004-10-14T05:47:46-07:00
 I might add, btw, and in disagreement with Clay, that the term "social computing" is in fact a useful term -- it is useful in just the ways that terms like "personal computing" and the term of the mini-computer era, "departmental computing", were useful. You might expect me to hold this view, of course: see my site [socialcomputing](http://www.socialcomputing.org){:target="_blank"}
 
 Tom 2004-10-14T05:50:23-07:00
-URL: There's also Social Protocols and their history which anticipated SS [SocialProtocols]http://www.w3.org/Talks/980922-MIT6805/SocialProtocols.html){:target="_blank"}
+URL: There's also Social Protocols and their history which anticipated SS [SocialProtocols]<http://www.w3.org/Talks/980922-MIT6805/SocialProtocols.html){:target=>"_blank"}
 
 Jim Pear 2004-10-14T09:24:06-07:00
 URL: You might be overlooking some significant milestones in the mid-to-late 90s, especially in the areas of Social Networks, SNA, communities of practice, Knowledge Management, and the "six degrees" folks. In particular, pioneers like Rob Cross (SNA, communities of practice),Larry Prusak (KM, communities of practice), Rob Usey (KnowledgeX, relationship mining) and others really drove many of the basic concepts and practices that these people, in the early 2000s, built upon.
@@ -286,10 +277,10 @@ Ross Mayfield 2004-10-14T17:46:54-07:00
 then there is "Social Software of Accounting and Information Systems", by Norman B. MacIntosh, Publisher: John Wiley & Sons; (June 1985)
 
 judith 2004-10-14T18:11:54-07:00
-The Memex was more than a dream. It was part of a thriving tradition of information organisation that predated computing, and more importantly, was all but constructed. So to view it as a "first mention" does it a disservice. I quote myself from [another-site] (http://www.digibarn.com/stories/desktop-history/bushytree.html){:target="_blank"} (recycling!) which has a history of HCI: ============================= Vannevar Bush was already famous as a designer of analog computers, and also an expert in the field of micrographics. He was already aware of the automated electronic information retrieval/control systems in use at places like MIT. Their origins lay in Europe with the coterie gathered around Paul Otlet, and they had a fully functional hypertext system with iconic access in 1912. Despite the War and the Depression, the march of both micrography and automated retrieval proceeded apace, and Bush was involved with their use in documentation during the war. The problem was not with rapid recall - that was well established. It was with the recording side of things. Micrographing and encoding took some time, and a significant part of what he envisaged in the Memex was the instantaneous storage mechanism he hoped would arrive. The significant thing that seems to bypass most histories is the fact that Bush had already built this type of machine at MIT, and perhaps more significantly co-operated with Kodak and NCR to work on the mechanisms that derived in part from his differential analyzer (the Comparator and the Microfilm Rapid Selector). As We May Think was actually written in 1939, in secrecy as a Govt report. The Library of Congress and Kodak were very busy with micrographic information retrieval. (One of the best sources on this technology is Jolley's Data Study from the early 60s. It shows how all of this worked, and worked well). And last but not least there is another connection wth Europe in the form of Emanuel Goldberg of Zeiss Ikon, who had developed the first significant opto-electronical retrieval system for documentation in the 1920s. (it was Goldberg's work that stopped Bush's patent application). Goldberg went around the world showing his machine in the middle 1930s, even got kidnapped by Nazi spies (!). It is difficult to know how much of the Work of Otlet, Goldberg and friends influenced the ideas of the MEMEX, but it alters the idea of the lonely visionary and puts this into scope. ================== The Digibarn exhibit on the Bushy Tree is an important resource for this research and is well worth a read for the purposes of investigating social software. Perhaps a bushy tree is needed for your page?
+The Memex was more than a dream. It was part of a thriving tradition of information organisation that predated computing, and more importantly, was all but constructed. So to view it as a "first mention" does it a disservice. I quote myself from [another-site] (<http://www.digibarn.com/stories/desktop-history/bushytree.html>){:target="_blank"} (recycling!) which has a history of HCI: ============================= Vannevar Bush was already famous as a designer of analog computers, and also an expert in the field of micrographics. He was already aware of the automated electronic information retrieval/control systems in use at places like MIT. Their origins lay in Europe with the coterie gathered around Paul Otlet, and they had a fully functional hypertext system with iconic access in 1912. Despite the War and the Depression, the march of both micrography and automated retrieval proceeded apace, and Bush was involved with their use in documentation during the war. The problem was not with rapid recall - that was well established. It was with the recording side of things. Micrographing and encoding took some time, and a significant part of what he envisaged in the Memex was the instantaneous storage mechanism he hoped would arrive. The significant thing that seems to bypass most histories is the fact that Bush had already built this type of machine at MIT, and perhaps more significantly co-operated with Kodak and NCR to work on the mechanisms that derived in part from his differential analyzer (the Comparator and the Microfilm Rapid Selector). As We May Think was actually written in 1939, in secrecy as a Govt report. The Library of Congress and Kodak were very busy with micrographic information retrieval. (One of the best sources on this technology is Jolley's Data Study from the early 60s. It shows how all of this worked, and worked well). And last but not least there is another connection wth Europe in the form of Emanuel Goldberg of Zeiss Ikon, who had developed the first significant opto-electronical retrieval system for documentation in the 1920s. (it was Goldberg's work that stopped Bush's patent application). Goldberg went around the world showing his machine in the middle 1930s, even got kidnapped by Nazi spies (!). It is difficult to know how much of the Work of Otlet, Goldberg and friends influenced the ideas of the MEMEX, but it alters the idea of the lonely visionary and puts this into scope. ================== The Digibarn exhibit on the Bushy Tree is an important resource for this research and is well worth a read for the purposes of investigating social software. Perhaps a bushy tree is needed for your page?
 
 Diarmuid Pigott 2004-10-14T22:23:59-07:00
-The timeline misses [Jacques-Vallee]http://www.jacquesvallee.com/){:target="_blank"}, who is a direct disciple of Engelbart (in 1971) but who went on the the Institute for the Future (IFTF) and wrote FORUM, an early BBS software. FORUM was the direct inspiration for the development in Sweden of KOM, another BBS system that ran on DEC PDP-10 systems, which was used from dial-in terminals throughout the 1980s. Also, the development of the Michigan Terminal System (MTS) at the University of Michigan in the 1960s had important implication on the development of early online communities in the u.s. mid west. The online conferencing system Confer went into production in 1975.
+The timeline misses [Jacques-Vallee]<http://www.jacquesvallee.com/){:target=>"_blank"}, who is a direct disciple of Engelbart (in 1971) but who went on the the Institute for the Future (IFTF) and wrote FORUM, an early BBS software. FORUM was the direct inspiration for the development in Sweden of KOM, another BBS system that ran on DEC PDP-10 systems, which was used from dial-in terminals throughout the 1980s. Also, the development of the Michigan Terminal System (MTS) at the University of Michigan in the 1960s had important implication on the development of early online communities in the u.s. mid west. The online conferencing system Confer went into production in 1975.
 
 Lars Aronsson 2004-10-15T14:27:31-07:00
 A topic that I think should be included is the role of PLATO, as described in David Wooley's paper [here](http://www.thinkofit.com/plato/dwplato.htm){:target="_blank"}. PLATO Notes was developed in 1973, not long after EIES, and it is significant for two reasons. First, it very quickly became an important part of an ongoing production environment, evolving new features and (unexpectedly) creating an on-line community that flourished for many years. Secondly, a close examination of the list of "PLATO People" at [platopeople](http://www.platopeople.com/people.html){:target="_blank"} clearly shows that a lot of very influential people in the computer industry were themselves influenced by PLATO, and it is indeed fair to say that many of the systems that truly popularized this technology were direct descendants of PLATO Notes, built by people who had used PLATO Notes. Three of the four founders of Iris Accociates (the company that build Lotus Notes) were PLATO users, and one of the three had previously written VAX Notes (which was widely used within DEC in the early 80s), and several of the developers of early Usenet tools were also PLATO veterans. That article linked above lists many more descendants of PLATO Notes. -rich
@@ -313,7 +304,7 @@ Ian Brown 2004-10-19T05:51:53-07:00
 murray leinster, a logic named joe. SF-story (1945) with real personal computers.
 
 jurijmlotman 2004-10-24T15:21:06-07:00
-Very useful review, Christopher. I think one of the main sources of confusion with respect to terminology is that the focus is on trying to marry concepts like group, social, and collaboration to _technology_ instead of to _systems_. To deal with this, we should start thinking in _socio-technical systems_ instead of technologies in isolation. See my "Social Software: What's in a Name?" [post](http://growingpains.blogs.com/home/2004/10/social_software.html){:target="_blank"}: (sorry, trackback doesn't work properly in TypePad).
+Very useful review, Christopher. I think one of the main sources of confusion with respect to terminology is that the focus is on trying to marry concepts like group, social, and collaboration to *technology* instead of to *systems*. To deal with this, we should start thinking in *socio-technical systems* instead of technologies in isolation. See my "Social Software: What's in a Name?" [post](http://growingpains.blogs.com/home/2004/10/social_software.html){:target="_blank"}: (sorry, trackback doesn't work properly in TypePad).
 
 Aldo de Moor 2004-10-25T04:24:40-07:00
 URL: The "Social Software of Accounting and Information Systems" book concentrates on how accounting information systems influence and are influenced by human interaction and organization culture. I think it explores a different notion of social software. A software that is embedded in a social group and thus affects its (the group's) behaviour. The "modern concept" is about facilitating social interaction, intentionally.

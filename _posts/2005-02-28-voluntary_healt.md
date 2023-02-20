@@ -2,8 +2,8 @@
 layout: post
 title:  Voluntary Health Associations & Social Software
 date:   2005-02-28 11:20:01 -0700
-image:  02.jpg
-tags:   Games Social Software Web/Tech
+image:  acsrelay.jpg
+# tags:   Games Social Software Web/Tech
 ---
 
 I'm a keynote speaker for the FVHA (Future of Voluntary Health Associations) Conference in Atlanta today. My job is to give to this community a gentle introduction and overview of concepts and products related to Social Software and Social Networking. (My slides are here - 6.6MB .pdf)

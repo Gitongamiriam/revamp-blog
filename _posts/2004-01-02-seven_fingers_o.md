@@ -2,8 +2,8 @@
 layout: post
 title: Seven Fingers of the Hand
 date: 2004-01-02 12:15:31 -0700
-image: 02.jpg
-tags: Web/Tech
+# image: 02.jpg
+# tags: Web/Tech
 ---
 
 Yesterday I watched the amazing Seven Fingers of the Hand Circus. There were parts of it that were so beautiful and meaningful that I cried.

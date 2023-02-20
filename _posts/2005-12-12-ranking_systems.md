@@ -67,8 +67,8 @@ R' = 1900 - 29.12
 R' = 1871
 Conversely a win nets him very little:
 
-R' = 1900 + 32 * (1 - .91)
-R' = 1900 + 32 * .09
+R' = 1900 + 32 *(1 - .91)
+R' = 1900 + 32* .09
 R' = 1900 + 2.88
 R' = 1903
 
@@ -198,10 +198,14 @@ Related articles from this blog:
 2007-01: Experimenting with Ratings
 Related articles from Shannon Appelcline's Trials, Triumphs & Trivialities:
 
-#192: Managing User Creativity, Part One
-#193: Managing User Creativity, Part Two
-#196: Collective Choice: Ratings, Who Do You Trust?
-#198: Collective Choice: More Thoughts About Ratings
+## 192: Managing User Creativity, Part One
+
+## 193: Managing User Creativity, Part Two
+
+## 196: Collective Choice: Ratings, Who Do You Trust?
+
+## 198: Collective Choice: More Thoughts About Ratings
+
 Comments
 A data point on ELO cheating for you: Yahoo! Games uses ELO rankings for several their two-player games. Before recent abuse mitigation changes, some people used robot to accumulate scores in excess of 6,000,000 points. The abuse-the-ranking game had become a totally seperate competition. For now, Yahoo! has capped the ELO scores at 3,000 (I think.) This removed most of the cheating incentive.
 

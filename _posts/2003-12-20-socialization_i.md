@@ -2,8 +2,8 @@
 layout: post
 title: Socialization in Online Games
 date: 2003-12-20 04:32:03 -0700
-image: 02.jpg
-tags: Web/Tech
+# image: 02.jpg
+# tags: Web/Tech
 ---
 
 Shannon Appelcline's "Trials, Triumphs & Trivialities" column in the Skotos Articles section recently featured a trilogy of articles about stretching the bounds of socialization in online games:
@@ -27,4 +27,3 @@ I've always enjoyed playing online games but I haven't ever thought of what I ge
 
 RPG 2004-03-19T12:59:11-07:00
 original layout
-

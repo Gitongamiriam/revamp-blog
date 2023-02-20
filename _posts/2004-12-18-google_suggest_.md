@@ -2,15 +2,13 @@
 layout: post
 title: Google Suggest Dissected
 date:   2004-12-18 08:44:31 -0700
-image:  02.jpg
-tags:   Home
+# image:  logo_google_suggest.gif
+# tags:   Home
 ---
 
 As a former Macintosh developer, I've always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.
 
 So I keep an eye out for innovative ideas that preserve the essence of what is so powerful about web pages, yet also offer a good ideas. My posts on Map Mashup and TiddlyWiki offer some interesting web UI exemplars.
-
-
 
 To this list of exemplars I now add Google Suggest by Google programmer Kevin Gibbs, who wrote this as part of Google employee's ability to work 20% of the time on their own projects. Google Suggest replaces the browser's default auto-complete with one specific to Google searching. As you type each letter of your search request, you are shown the most popular requests for that term, and how many search hits are available for that search term. You really have to try out to understand how amazing and intuitive it is.
 
@@ -46,5 +44,3 @@ This is another case where people are astonished to learn that there isn't any b
 
 alexei 2005-06-12T22:31:34-07:00
 original layout
-
-

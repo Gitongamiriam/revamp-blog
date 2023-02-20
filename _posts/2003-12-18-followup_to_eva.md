@@ -2,8 +2,8 @@
 layout: post
 title: Followup to “Evaluating Social Network Services”
 date: 2003-12-18 00:19:52 -0700
-image: 02.jpg
-tags: Home
+# image: 02.jpg
+# tags: Home
 ---
 
 I've received a number of replies and pointers after posting my Evaluating Social Network Services here last Tuesday. Here are a few:
@@ -26,7 +26,6 @@ You also address an important issue that the degree of a relationship is importa
 Of course, when I update my address books with people I've interacted with in the last 30 days, you'll automatically become a part of my network. The real importance of this type of pseudo-relationship is that it's turned into something. Either I have to provide value to you, or you to me, or together to another party.
 
 Perhaps the perfect system would let me assign a degree of relationship strength (like the Spoke system)-- you'd start as a 1, but over time could be upgraded to a 10 if we are of value to each other.
-
 
 Differing Values of Networks
 In Werblog Kevin Werbach continues in the same blog posting an important observation about the differing values of a social network:
@@ -52,7 +51,6 @@ Let's say I want to contact a hotshot at a big company, and see that he's connec
 
 Sometimes things are better left unstated, and some of these social networks are going to discover these problems as they expand. Already, I've heard of people trying to figure out what to do about people they don't like adding them to their Friendster network. You don't want to turn down people and insult them, but each of those connections makes the whole thing less valuable.
 
-
 Understanding Customers
 Justin Hitt has an interesting take that social networking software has more value then establishing new contacts, in his blog How I use social software for stronger business relationships (reg required) :
 
@@ -62,7 +60,6 @@ Like any community you only get what you put in. The relationship strategies I s
 Connect with existing customers to make sure you satisfy their every desire.
 
 I've learned more about my existing customers by taking this final step. After focusing on my area of expertise, creating a profile, and seeking to provide value -- I have created more return by using social software to improve the relationships I already have.
-
 
 Explicit Connections
 Related to Justin's comments above, at RatcliffeBlog Mitch Ratcliffe writes in Social Networking Deconstructed about problems with a Spoke referral not working, and adds:
@@ -87,7 +84,6 @@ In terms of actually using the service, I've yet to use it for anything producti
 I've got LinkedIn enabled so that browsing members can contact me directly. I've received one inquiry via that route -- but it was way off my subject matter expertise so I just responded saying so.
 
 Coincidentally, in the last 2-3 days, I've had 2-3 requests to join other people's LinkedIn networks -- after going for many days in between earlier invitations.
-
 
 Other Services
 There are quite a few other services that I haven't explored yet, like Spoke Software and Zero Degrees, and there are other software or services like Contact Network, InterAction, Plaxo, Skype, Eurekster, Tickle, MeetUp. I hope to take a look at a few of them and report back soon. I don't think that I'll be looking at the dating sites such as Match.com, American Singles, Yahoo Personals, etc.

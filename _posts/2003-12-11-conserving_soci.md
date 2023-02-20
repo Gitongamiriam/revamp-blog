@@ -2,8 +2,8 @@
 layout: post
 title:  Conserving Social Capital
 date:   2003-12-11 01:17:16 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 A followup to my post yesterday Social Software -- Problems & the Definition of "Friends", I saw in Scott Lofteness' blog a reference to David Hornick's VentureBlog: Conserving Social Capital:
@@ -15,4 +15,5 @@ I'm finding there's just not much of a "there there" for me. Nothing that draws 
 This obviously isn't a stable situation. Something will likely emerge to make this a more useful service -- a place to spend and share the social capital David talks about -- or it'll eventually just fade away.
 
 Yet it is interesting that all of us are giving it a real try. There may still be a 'there' there, but if it is, it is currently being obscured.
+
 original layout

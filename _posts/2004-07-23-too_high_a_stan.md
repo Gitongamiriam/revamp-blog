@@ -2,8 +2,8 @@
 layout: post
 title:  Too High a Standard
 date:   2004-08-07 14:03:41 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 I have for some time told people that one way that my blog was different was because I was focused on offering a high signal-to-noise ratio. I told them that they could subscribe to my blog safely, as I'd not inundate them with anything but the highest quality posts.

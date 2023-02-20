@@ -2,8 +2,8 @@
 layout: post
 title:  Simple Yet Sophisticated Group Page Editing
 date:   2004-05-13 14:58:39 -0700
-image:  02.jpg
-tags:   Web/Tech
+# image:  02.jpg
+# tags:   Web/Tech
 ---
 
 I have been leading the design of a new Open Source collaboration tool called EditThisPagePHP, which started six months ago and now is in beta.

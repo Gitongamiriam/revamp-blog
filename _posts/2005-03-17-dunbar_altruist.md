@@ -2,8 +2,8 @@
 layout: post
 title:  Dunbar, Altruistic Punishment, and Meta-Moderation
 date:   2005-03-17 11:38:19 -0700
-image:  02.jpg
-tags:   Home
+# image:  02.jpg
+# tags:   Home
 ---
 
 

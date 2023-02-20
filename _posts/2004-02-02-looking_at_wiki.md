@@ -2,8 +2,8 @@
 layout: post
 title:  Looking at Wiki
 date:   2004-02-19 16:25:05 -0700
-image:  02.jpg
-tags:   Social
+# image:  02.jpg
+# tags:   Social
 ---
 
 I've not just been spending time looking at social networking services, I've also been digging deeper into wiki. I've still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.
@@ -41,7 +41,7 @@ stuart henshall 2004-02-02T16:21:12-07:00
 URL: Flexwiki doesn't even work with my Mozilla browser. I'd also recommend MediaWiki (used for all the Wikipedia sites), SnipSnap (java based wiki+blog), and Tiki.
 
 wikuser 2004-02-04T10:12:49-07:00
-The importance of wiki is that WikiIsDocumentBased. ( [communitywiki]http://communitywiki.org/WikiIsDocumentBased){:target="_blank"} ) IM, IRC, e-mail, all that stuff is message based. This is the first document based medium. Documents are big heavy things that float around for long periods of time. Messages are flitty things that are useful for a very short period of time. Documents are good for stabilizing massive teachings that don't change often. Messages are good for coordinations and handling new things quickly. We need both. Wiki is essential.
+The importance of wiki is that WikiIsDocumentBased. ( [communitywiki]<http://communitywiki.org/WikiIsDocumentBased){:target=>"_blank"} ) IM, IRC, e-mail, all that stuff is message based. This is the first document based medium. Documents are big heavy things that float around for long periods of time. Messages are flitty things that are useful for a very short period of time. Documents are good for stabilizing massive teachings that don't change often. Messages are good for coordinations and handling new things quickly. We need both. Wiki is essential.
 
 LionKimbro 2004-02-09T00:14:10-07:00
 PC Magazine did a review December 30, 2003 at [pcmag](http://www.pcmag.com/article2/0,4149,1402872,00.asp){:target="_blank"} that rated both [SocialText](http://www.socialtext.com/){:target="_blank"} and [EditME](http://www.editme.com/){:target="_blank"} at four starts

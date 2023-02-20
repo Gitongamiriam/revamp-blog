@@ -2,8 +2,8 @@
 layout: post
 title:  Cheers:Belongingness and Para-Social Relationships
 date:   2005-07-27 16:35:17 -0700
-image:  02.jpg
-tags:   Home
+image:  cheers.jpg
+# tags:   Home
 ---
 
 In yesterday's All Things Considered, NPR commentator Jake Halpern questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: "That's because you do." This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of Dunbar Number relationship limits and how they might relate to this concept.
