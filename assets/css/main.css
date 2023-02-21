@@ -400,12 +400,6 @@ ul {
     text-align: center
 }
 
-@media only screen and (max-width: 576px) {
-    .pagination {
-        margin: 0 0 20px
-    }
-}
-
 .pagination__list {
     display: flex;
     justify-content: space-between;
@@ -451,18 +445,6 @@ ul {
 
 .pagination__list .counter-box .active-link {
     font-weight: 700
-}
-
-@media only screen and (max-width: 576px) {
-    .pagination__list {
-        flex-direction: column
-    }
-
-    .pagination__list .next-link,
-    .pagination__list .previous-link,
-    .pagination__list .disabled {
-        margin: 10px 0
-    }
 }
 
 .subscribe {
@@ -1312,7 +1294,6 @@ ul {
 @media only screen and (max-width: 600px) {
     #header_section {
         height: 90vh;
-        /* background-color: red; */
         display: block;
     }
 
@@ -1327,8 +1308,6 @@ ul {
         text-align: center;
         padding: 0px;
     }
-
-
 
     #banner_img {
         height: 30vh;
@@ -1351,7 +1330,74 @@ ul {
     }
 
     .pagination {
-        display: none;
+        padding: 90px 0;
+        background-color: red;
+    }
+
+    .pagination__list {
+        background-color: yellow;
+    }
+
+    .pagination__list .next-link,
+    .pagination__list .previous-link,
+    .pagination__list .disabled {
+        display: inline-block;
+        width: 0;
+        height: 0;
+        line-height: 50px;
+        font-size: 12px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        transition: all .35s;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .15);
+        background: green;
+    }
+
+    .pagination__list .next-link,
+    .pagination__list .previous-link {
+        color: #393e46
+    }
+
+    .pagination__list .next-link:hover,
+    .pagination__list .previous-link:hover {
+        color: #000
+    }
+
+    .pagination__list .disabled {
+        color: #bbb;
+        cursor: not-allowed
+    }
+
+    .pagination__list .counter-box a,
+    .pagination__list .counter-box span {
+        padding: 0 5px;
+        font-size: 15px;
+        color: #393e46
+    }
+
+    .pagination__list .counter-box .active-link {
+        font-weight: 700
     }
 
 }
+
+
+/* 
+-- Her
+Words of affirmation
+Quality Time
+Acts of service
+Physical Touch 
+Gifts 
+*/
+
+
+
+/* 
+-- Me
+Quality Time
+Physical Touch 
+Words of affirmation
+Acts of service
+Gifts  
+*/

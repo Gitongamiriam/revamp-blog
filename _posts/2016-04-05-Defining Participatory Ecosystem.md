@@ -7,7 +7,6 @@ image:  Participatory.jpeg
 ---
 
 
-## Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
 
 **Life With Alacrity**
 
