@@ -3,18 +3,15 @@ layout: post
 title:  The Path to Self-Sovereign Identity
 date:   2016-04-25 08:07:00 +0300
 image:  self-soverreign.jpeg
-# tags:   Home
 ---
 
 
 #### Life With Alacrity
+
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 The Path to Self-Sovereign Identity
 April 25 2016 - 4200 Words
 by Christopher Allen
-
-
-
 
 Identity-510866
 Today I head out to a month-long series of events associated with identity: I’m starting with the 22st (!) Internet Identity Workshop next week; then I’m speaking at the blockchain conference Consensus about identity; next I am part of the team putting together the first ID2020 Summit on Digital Identity at the United Nations; and finally I'm hosting the second #RebootingWebOfTrust design workshop on decentralized identity.
